@@ -45,17 +45,3 @@
 </table>
 
 ---
-
-
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="SYSTEM.png" width="500" height="500" />
-    </td>
-    <td>
-      <img src="Black Illustrative Photography Logo.png" alt="Photography Banner" width="500" height="500" />
-    </td>
-  </tr>
-</table>
-
