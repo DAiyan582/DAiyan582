@@ -124,7 +124,9 @@
     <td align="center" width="16.6%" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 20px;">
       <img src="https://img.shields.io/badge/-Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white" alt="Overleaf" />
     </td>
-    <td align="center" width="16.6%" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 20px;">
+  </tr>
+  <tr>
+     <td align="center" width="16.6%" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 20px;">
       <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
     </td>
   </tr>
