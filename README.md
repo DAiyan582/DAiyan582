@@ -154,13 +154,13 @@
 
 <p align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-stats-extended.vercel.app/api?username=DAiyan582&show_icons=true&theme=default" height="195" alt="DAiyan582's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=DAiyan582&show_icons=true&theme=tokyonight" height="195" alt="DAiyan582's GitHub Stats" />
   &nbsp;&nbsp;
   <!-- Most Used Languages Card -->
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DAiyan582&layout=compact&theme=default" height="195" alt="DAiyan582's Most Used Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DAiyan582&layout=compact&theme=tokyonight" height="195" alt="DAiyan582's Most Used Languages" />
 </p>
 
 <p align="center">
   <!-- Live Contribution Line Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DAiyan582&theme=github-dark" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DAiyan582&theme=tokyo-night" width="100%" alt="Contribution Graph" />
 </p>
