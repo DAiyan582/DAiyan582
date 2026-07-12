@@ -10,7 +10,9 @@
 <table align="center">
   <tr>
     <td>
+    <a href="https://www.photocrowd.com/settings/profile/">
       <img src="Systems and technology programming company logo.png" width="500" height="500" />
+    </a>
     </td>
     <td>
       <img src="Black Illustrative Photography Logo.png" alt="Photography Banner" width="500" height="500" />
