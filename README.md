@@ -4,3 +4,8 @@
 ![](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 ![](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![](https://img.shields.io/badge/Photography-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00979D&height=180&section=header&text=Academic%20%26%20Creative&fontSize=40&animation=fadeIn" width="100%"/>
+</p>
