@@ -91,54 +91,54 @@
 <table align="center">
   <tr>
     <td align="center" width="120" height="120" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 15px;">
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35" alt="HTML5" /><br/>
-      <span style="color: #ffffff; font-family: sans-serif; font-size: 12px; font-weight: bold; display: block; margin-top: 10px;">HTML5</span>
+      <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" /><br/>
+      <span style="color: #ffffff; font-family: sans-serif; font-size: 13px; font-weight: bold; display: block; margin-top: 12px;">HTML5</span>
     </td>
     <td align="center" width="120" height="120" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 15px;">
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35" alt="CSS3" /><br/>
-      <span style="color: #ffffff; font-family: sans-serif; font-size: 12px; font-weight: bold; display: block; margin-top: 10px;">CSS3</span>
+      <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3" /><br/>
+      <span style="color: #ffffff; font-family: sans-serif; font-size: 13px; font-weight: bold; display: block; margin-top: 12px;">CSS3</span>
     </td>
     <td align="center" width="120" height="120" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 15px;">
-      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" alt="JavaScript" /><br/>
-      <span style="color: #ffffff; font-family: sans-serif; font-size: 12px; font-weight: bold; display: block; margin-top: 10px;">JavaScript</span>
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" /><br/>
+      <span style="color: #ffffff; font-family: sans-serif; font-size: 13px; font-weight: bold; display: block; margin-top: 12px;">JavaScript</span>
     </td>
     <td align="center" width="120" height="120" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 15px;">
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35" alt="Python" /><br/>
-      <span style="color: #ffffff; font-family: sans-serif; font-size: 12px; font-weight: bold; display: block; margin-top: 10px;">Python</span>
+      <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" /><br/>
+      <span style="color: #ffffff; font-family: sans-serif; font-size: 13px; font-weight: bold; display: block; margin-top: 12px;">Python</span>
     </td>
     <td align="center" width="120" height="120" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 15px;">
-      <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="35" alt="Arduino" /><br/>
-      <span style="color: #ffffff; font-family: sans-serif; font-size: 12px; font-weight: bold; display: block; margin-top: 10px;">Arduino</span>
+      <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="Arduino" /><br/>
+      <span style="color: #ffffff; font-family: sans-serif; font-size: 13px; font-weight: bold; display: block; margin-top: 12px;">Arduino</span>
     </td>
   </tr>
   
   <tr>
     <td align="center" width="120" height="120" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 15px;">
-      <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="35" alt="Figma" /><br/>
-      <span style="color: #ffffff; font-family: sans-serif; font-size: 12px; font-weight: bold; display: block; margin-top: 10px;">Figma</span>
+      <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma" /><br/>
+      <span style="color: #ffffff; font-family: sans-serif; font-size: 13px; font-weight: bold; display: block; margin-top: 12px;">Figma</span>
     </td>
     <td align="center" width="120" height="120" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 15px;">
-      <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="35" alt="VS Code" /><br/>
-      <span style="color: #ffffff; font-family: sans-serif; font-size: 12px; font-weight: bold; display: block; margin-top: 10px;">VS Code</span>
+      <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="VS Code" /><br/>
+      <span style="color: #ffffff; font-family: sans-serif; font-size: 13px; font-weight: bold; display: block; margin-top: 12px;">VS Code</span>
     </td>
     <td align="center" width="120" height="120" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 15px;">
-      <img src="https://img.shields.io/badge/-Git_Bash-F05032?style=for-the-badge&logo=git&logoColor=white" height="35" alt="Git Bash" /><br/>
-      <span style="color: #ffffff; font-family: sans-serif; font-size: 12px; font-weight: bold; display: block; margin-top: 10px;">Git Bash</span>
+      <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git Bash" /><br/>
+      <span style="color: #ffffff; font-family: sans-serif; font-size: 13px; font-weight: bold; display: block; margin-top: 12px;">Git Bash</span>
     </td>
     <td align="center" width="120" height="120" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 15px;">
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub" /><br/>
-      <span style="color: #ffffff; font-family: sans-serif; font-size: 12px; font-weight: bold; display: block; margin-top: 10px;">GitHub</span>
+      <img src="https://cdn.simpleicons.org/github/ffffff" height="40" alt="GitHub" /><br/>
+      <span style="color: #ffffff; font-family: sans-serif; font-size: 13px; font-weight: bold; display: block; margin-top: 12px;">GitHub</span>
     </td>
     <td align="center" width="120" height="120" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 15px;">
-      <img src="https://img.shields.io/badge/-Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" height="35" alt="Overleaf" /><br/>
-      <span style="color: #ffffff; font-family: sans-serif; font-size: 12px; font-weight: bold; display: block; margin-top: 10px;">Overleaf</span>
+      <img src="https://cdn.simpleicons.org/overleaf/47A141" height="40" alt="Overleaf" /><br/>
+      <span style="color: #ffffff; font-family: sans-serif; font-size: 13px; font-weight: bold; display: block; margin-top: 12px;">Overleaf</span>
     </td>
   </tr>
 
   <tr>
     <td align="center" width="120" height="120" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 15px;">
-      <img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" height="35" alt="LaTeX" /><br/>
-      <span style="color: #ffffff; font-family: sans-serif; font-size: 12px; font-weight: bold; display: block; margin-top: 10px;">LaTeX</span>
+      <img src="https://cdn.simpleicons.org/latex/008080" height="40" alt="LaTeX" /><br/>
+      <span style="color: #ffffff; font-family: sans-serif; font-size: 13px; font-weight: bold; display: block; margin-top: 12px;">LaTeX</span>
     </td>
     <td style="border: none;"></td>
     <td style="border: none;"></td>
