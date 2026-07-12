@@ -12,6 +12,6 @@
 </p>
 
 <p align="center">
-  <img src="images.jpeg" alt="Photography Banner" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;"/>
+  <img src="images.jpeg" alt="Photography Banner"/>
 </p>
 
