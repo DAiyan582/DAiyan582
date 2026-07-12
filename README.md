@@ -8,10 +8,10 @@
 
 
 <p align="left">
-  <img src="Systems and technology programming company logo.png" witdth="250" height="250"/>
+  <img src="Systems and technology programming company logo.png" witdth="500" height="500"/>
 </p>
 
 <p align="right">
-  <img src="Black Illustrative Photography Logo.png" alt="Photography Banner" witdth="250" height="250"/>
+  <img src="Black Illustrative Photography Logo.png" alt="Photography Banner" witdth="500" height="500"/>
 </p>
 
