@@ -179,17 +179,17 @@
 <p align="center">
   <!-- Facebook Link -->
   <a href="https://www.facebook.com/profile.php?id=100019019676325" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="Facebook" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqjXwsPMD9Axkj-9sYjRk2hH9kHsqJ5OAmgUsncLCaSQ&s" height="40" alt="Facebook" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Instagram Link -->
   <a href="https://www.instagram.com/d_cikada3301/?__pwa=1#" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6sEZ6sPHMJwV8mAVPbKbKDB-JMMnHM7L8zJ-eOKJP5w&s=10" height="40" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Gmail Link -->
   <a href="mailto:daiyanrahman900@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Gmail" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCIxTT1tp06j_1ihADlZl8c4GqTQAb1l_kpWIyj4tEOQ&s=10" height="40" alt="Gmail" />
   </a>
 </p>
 
