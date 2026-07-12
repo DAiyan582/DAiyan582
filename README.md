@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  <img src="gif(1).gif" alt="Daiyan Tech Workspace" width="250" height="250" style="border: 2px solid #3b82f6; border-radius: 6px;" />
+  <img src="gif.gif" alt="Daiyan Tech Workspace" width="250" height="250" style="border: 2px solid #3b82f6; border-radius: 6px;" />
 </p>
 
 </div>
