@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="Systems and technology programming company logo.png" width="100%"/>
+  <img src="Systems and technology programming company logo.png" witdth="250" height="250"/>
 </p>
 
 <p align="center">
