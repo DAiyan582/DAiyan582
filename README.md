@@ -162,5 +162,5 @@
 
 <p align="center">
   <!-- Live Contribution Line Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DAiyan582&theme=github-dark" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DAiyan582&theme=github-dark& green" width="100%" alt="Contribution Graph" />
 </p>
