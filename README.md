@@ -172,10 +172,6 @@
 
 ## 🤝 Connect with me 
 
----
-
-## 🤝 Connect With Me
-
 <p align="center">
   <!-- Facebook Link -->
   <a href="https://www.facebook.com/profile.php?id=100019019676325" target="_blank">
