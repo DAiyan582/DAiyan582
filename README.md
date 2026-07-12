@@ -86,7 +86,7 @@
 </div>
 
 <div align="left">
- <h1>💻 Language & Tools (Frontend-Development)</h1>
+ <h1>🛠️ Tech Stack & Tools (Frontend-Development)</h1>
 
 ### 🌐 Frontend Development & Design
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -95,8 +95,8 @@
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### ⚡ Hardware & Programming Languages
-![](https://img.shields.io/badge/Arduino_Uno-Hardware-00979D?style=plastic&logo=arduino&logoColor=cyan)
-![](https://img.shields.io/badge/Python_3.x-Programming-3776AB?style=plastic&logo=python&logoColor=yellow)
+![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### ⚙️ Environment & Workflow
 ![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -104,7 +104,7 @@
 ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📝 Research & Documentation
-![](https://img.shields.io/badge/OVERLEAF-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
-![](https://img.shields.io/badge/LATEX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
+![](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 </div>
 
