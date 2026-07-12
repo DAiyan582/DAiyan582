@@ -11,7 +11,7 @@
   </samp>
 </p>
 
-### Frontend Developer • Embedded Systems Specialist • Photographer
+### Frontend Developer • Love to play GAMEAS • Photographer
 
 *Currently coding modern user experiences and engineering electronics projects ✨*
 
