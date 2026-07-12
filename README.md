@@ -1,5 +1,5 @@
 # DAiyan582
-![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![](https://img.shields.io/badge/Arduino-00B4D8?style=for-the-badge&logo=aperture&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <a href="https://www.overleaf.com/project">
 ![](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
