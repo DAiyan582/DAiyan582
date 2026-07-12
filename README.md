@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00979D&height=180&section=header&text=Academic%20%26%20Creative&fontSize=40&animation=fadeIn" width="100%"/>
+  <img src="Systems and technology programming company logo.png" width="100%"/>
 </p>
 
 <p align="center">
