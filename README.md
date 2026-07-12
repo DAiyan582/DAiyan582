@@ -15,16 +15,3 @@
   <img src="https://images.unsplash.com/photo-1516035069371-29a1b244cc32?q=80&w=1000&auto=format&fit=crop" alt="Photography Banner" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;"/>
 </p>
 
-### 🛠️ Tools & Technologies
-
-<!-- Coding & Hardware -->
-![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-<!-- Documentation & Research -->
-![](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
-![](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white)
-
-<!-- Creative & Editing -->
-![](https://img.shields.io/badge/Photography-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![](https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=Adobe_Lightroom&logoColor=white)
