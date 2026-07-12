@@ -36,7 +36,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="Systems and technology programming company logo.png" alt="Frontend Developer" width="100%" />
+      <img src="SYSTEM.png" alt="Frontend Developer" width="100%" />
     </td>
     <td align="center" width="50%">
       <img src="Black Illustrative Photography Logo.png" alt="Daiyan Studio Photography" width="100%" />
