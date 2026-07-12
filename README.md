@@ -1,6 +1,6 @@
 # DAiyan582
-![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&color=005C53,9FC131)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=3776AB,FFD343)
+![](https://img.shields.io/badge/Arduino_Uno-Hardware-00979D?style=plastic&logo=arduino&logoColor=cyan)
+![](https://img.shields.io/badge/Python_3.x-Programming-3776AB?style=plastic&logo=python&logoColor=yellow)
 <a href="https://www.overleaf.com/project">
 ![](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 </a>
