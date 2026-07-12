@@ -172,6 +172,8 @@
 
 ## 🤝 Connect with me 
 
+</div>
+
 <p align="center">
   <!-- Facebook Link -->
   <a href="https://www.facebook.com/profile.php?id=100019019676325" target="_blank">
@@ -188,8 +190,3 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCIxTT1tp06j_1ihADlZl8c4GqTQAb1l_kpWIyj4tEOQ&s=10" height="40" alt="Gmail" />
   </a>
 </p>
-
----
-
-
-</div>
