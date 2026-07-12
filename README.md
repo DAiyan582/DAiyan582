@@ -170,6 +170,30 @@
 
 <div align="left">
 
-## Connect with me 
+## 🤝 Connect with me 
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <!-- Facebook Link -->
+  <a href="https://www.facebook.com/profile.php?id=100019019676325" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="Facebook" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Instagram Link -->
+  <a href="https://www.instagram.com/d_cikada3301/?__pwa=1#" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Gmail Link -->
+  <a href="mailto:daiyanrahman900@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Gmail" />
+  </a>
+</p>
+
+---
+
 
 </div>
