@@ -38,6 +38,14 @@
   </tr>
 </table>
 
+## 🚀 About Me
+
+- 🌐 **Frontend Developer:** I build clean, interactive, and user-friendly web applications.
+- ⚡ **Hardware Enthusiast:** I love coding microcontrollers and building smart electronics projects with Arduino.
+- 📸 **Photographer:** I capture the world through a lens and run my own brand, Daiyan Studio.
+- 🎮 **Gamer & Explorer:** I enjoy playing classic games and learning new technologies.
+- 🎯 **Goal:** I love combining software, hardware, and photography to bring creative ideas to life.
+
 </div>
 
 ### 🛠️ Tech Stack & Tools
