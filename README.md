@@ -89,24 +89,42 @@
 <h1>🛠️ Tech Stack & Tools (Frontend-Development)</h1>
 
 <table align="center" width="100%">
-  <!-- Row 1: Development & Languages -->
+  <!-- Row 1: Core Development & Languages -->
   <tr>
-    <td align="center" style="padding: 10px; border: none;">
+    <td align="center" width="20%" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 20px;">
       <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+    </td>
+    <td align="center" width="20%" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 20px;">
       <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+    <td align="center" width="20%" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 20px;">
       <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    </td>
+    <td align="center" width="20%" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 20px;">
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    </td>
+    <td align="center" width="20%" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 20px;">
       <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
     </td>
   </tr>
-  <!-- Row 2: Workflow, Design & Tools -->
+  <!-- Row 2: Workflow, Design & Documentation Tools -->
   <tr>
-    <td align="center" style="padding: 10px; border: none;">
+    <td align="center" width="16.6%" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 20px;">
       <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+    </td>
+    <td align="center" width="16.6%" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 20px;">
       <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+    </td>
+    <td align="center" width="16.6%" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 20px;">
       <img src="https://img.shields.io/badge/-Git_Bash-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Bash" />
+    </td>
+    <td align="center" width="16.6%" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 20px;">
       <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </td>
+    <td align="center" width="16.6%" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 20px;">
       <img src="https://img.shields.io/badge/-Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white" alt="Overleaf" />
+    </td>
+    <td align="center" width="16.6%" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 20px;">
       <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
     </td>
   </tr>
