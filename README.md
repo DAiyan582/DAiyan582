@@ -118,7 +118,7 @@
       <span style="color: #ffffff; font-family: sans-serif; font-size: 13px; font-weight: bold; display: block; margin-top: 12px;">Figma</span>
     </td>
     <td align="center" width="120" height="120" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 15px;">
-      <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="VS Code" /><br/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP-xj5sbiPn90XayX8rST2qW47_cM85esQPv7U8Jl--w&s=10" height="40" alt="VS Code" /><br/>
       <span style="color: #ffffff; font-family: sans-serif; font-size: 13px; font-weight: bold; display: block; margin-top: 12px;">VS Code</span>
     </td>
     <td align="center" width="120" height="120" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 15px;">
