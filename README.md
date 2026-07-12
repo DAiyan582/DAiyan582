@@ -14,8 +14,8 @@
 
 ### 🛠️ Tech Stack & Tools
 
-![](https://img.shields.io/badge/Arduino_Uno-Hardware-00979D?style=plastic&logo=arduino&logoColor=cyan)
-![](https://img.shields.io/badge/Python_3.x-Programming-3776AB?style=plastic&logo=python&logoColor=yellow)
+![](https://img.shields.io/badge/Arduino_Uno-Hardware-00979D?style=for-the-badge&logo=arduino&logoColor=cyan)
+![](https://img.shields.io/badge/Python_3.x-Programming-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 <a href="https://www.overleaf.com/project">
 ![](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 </a>
