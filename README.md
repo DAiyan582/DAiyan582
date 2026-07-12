@@ -157,7 +157,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DAiyan582&show_icons=true&theme=default" height="195" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAiyan582&layout=compact&theme=default" height="195" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAiyan582&layout=compact&theme=green" height="195" alt="Most Used Languages" />
 </p>
 
 <p align="center">
