@@ -1,12 +1,10 @@
 # DAiyan582
-<p align="left">
   <a href="https://github.com/trending?l=arduino">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00979D&width=200&lines=⚡+Arduino+Hardware" alt="Arduino" />
   </a>
   <a href="https://github.com/trending?l=python">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3776AB&width=200&lines=🐍+Python+Dev" alt="Python" />
   </a>
-</p>
 <a href="https://www.overleaf.com/project">
 ![](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 </a>
