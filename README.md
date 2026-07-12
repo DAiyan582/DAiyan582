@@ -14,6 +14,7 @@
 ### Frontend Developer • Love to play GAMEAS • Photographer
 
 *Currently coding modern user experiences and engineering electronics projects ✨*
+*Still learn the Languages mentined  ✨*
 
 ---
 
