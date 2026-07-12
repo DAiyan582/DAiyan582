@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  <img src="https://giphy.com/gifs/tech-system-alliance-YYW0hHizzIOrlhimPG" alt="Daiyan Tech Workspace" width="85%" style="border: 2px solid #3b82f6; border-radius: 6px;" />
+  <img src="gif.gif" alt="Daiyan Tech Workspace" width="85%" style="border: 2px solid #3b82f6; border-radius: 6px;" />
 </p>
 
 </div>
