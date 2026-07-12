@@ -1,8 +1,9 @@
-# DAiyan582
 
 <div align="center">
 
-# Hey, I'm DAiyan582 🚀🌐📸
+# Make life easier , Look through Lens , Entertain by GAME 
+
+# Hey, I'm DAiyan582 🚀🎮📸
 
 ### Frontend Developer • Embedded Systems Specialist • Photographer
 
