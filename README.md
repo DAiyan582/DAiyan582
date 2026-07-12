@@ -1,7 +1,9 @@
 
 <div align="center">
   <samp>
-    <h1>Make Life Easier🚀|Look through Lens📸|Entertain by GAMES 🎮</h1>
+    <h1>Make Life Easier🚀</h1>
+    <h1>Look through Lens📸</h1>
+    <h1>Entertain by GAMES 🎮</h1>
   </samp>
 </p>
 
