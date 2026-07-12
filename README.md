@@ -7,5 +7,5 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00979D&height=180&section=header&text=Academic%20%26%20Creative&fontSize=40&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=180&section=header&text=Front-End%20Developer&fontSize=42&animation=fadeIn" width="100%"/>
 </p>
