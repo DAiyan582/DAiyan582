@@ -150,8 +150,11 @@
 
 </div>
 
+<div align="left">
+
 ## 🗃️ GitHub Activity
 
+</div>
 <p align="center">
   <!-- GitHub Stats Card -->
   <img src="https://github-stats-extended.vercel.app/api?username=DAiyan582&show_icons=true&bg_color=ffffff&title_color=000000&text_color=blue&icon_color=3b82f6" height="195" alt="DAiyan582's GitHub Stats" />
