@@ -85,9 +85,8 @@
  <h1>🚨 My projects</h1>
 </div>
 
- <h1>🛠️ Tech Stack & Tools (Frontend-Development)</h1>
-
 <div align="left">
+<h1>🛠️ Tech Stack & Tools (Frontend-Development)</h1>
 
 ### 🌐 Frontend Development & Design
 ![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
