@@ -1,8 +1,11 @@
 
-<div align="center">
+<p align="center">
+  <samp>
+    <h1>Make Life Easier🚀|Look through Lens📸|Entertain by GAMES 🎮</h1>
+  </samp>
+</p> 
 
-# Make life easier , Look through Lens , Entertain by GAME 
-# <h3>Hey, I'm DAiyan582 🚀🎮📸</h3>
+# <h3>Hey, I'm DAiyan582</h3>
 
 ### Frontend Developer • Embedded Systems Specialist • Photographer
 
