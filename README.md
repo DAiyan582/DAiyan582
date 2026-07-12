@@ -81,9 +81,9 @@
 </table>
 
 ---
-
+<div a;ign="left">
 ## 🚨 My projects
-
+</div>
 
 ## 💻 Language & Tools (Frontend-Development) 
 
