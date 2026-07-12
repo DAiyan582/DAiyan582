@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  <img src="Programming Rules GIF by ProductDock.gif" alt="Daiyan Tech Workspace" width="250" height="250" style="border: 2px solid #3b82f6; border-radius: 6px;" />
+  <img src="Programming Rules GIF by ProductDock.gif" alt="Daiyan Tech Workspace" width="500" height="500" style="border: 2px solid #3b82f6; border-radius: 6px;" />
 </p>
 
 </div>
