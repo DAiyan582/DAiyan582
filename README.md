@@ -12,6 +12,6 @@
 </p>
 
 <p align="center">
-  <img src="Black Illustrative Photography Logo.png" alt="Photography Banner" witdth="1000" height="1000"/>
+  <img src="Black Illustrative Photography Logo.png" alt="Photography Banner" witdth="500" height="500"/>
 </p>
 
