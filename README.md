@@ -82,7 +82,7 @@
 
 ---
 <div align="left">
- 🚨 My projects
+ <h1>🚨 My projects</h1>
 </div>
 
 ## 💻 Language & Tools (Frontend-Development) 
