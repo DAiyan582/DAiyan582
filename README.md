@@ -91,11 +91,11 @@
 <table align="center">
   <tr>
     <td align="center" width="120" height="120" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 15px;">
-      <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" /><br/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHynqWJV4JaQhoAr57c0FzclG7pgYQE-0yN1LlUJNV1g&s=10" height="40" alt="HTML5" /><br/>
       <span style="color: #ffffff; font-family: sans-serif; font-size: 13px; font-weight: bold; display: block; margin-top: 12px;">HTML5</span>
     </td>
     <td align="center" width="120" height="120" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 15px;">
-      <img src="https://w7.pngwing.com/pngs/224/77/png-transparent-website-web-internet-css-style-css3-technology-social-media-logos-i-flat-colorful-icon.png" height="40" alt="CSS3" /><br/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJYOYkBAkaONL0ljXCJw8qjBEZTpwVWtGKrqw4Tu8zw&s=10" height="40" alt="CSS3" /><br/>
       <span style="color: #ffffff; font-family: sans-serif; font-size: 13px; font-weight: bold; display: block; margin-top: 12px;">CSS3</span>
     </td>
     <td align="center" width="120" height="120" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 15px;">
@@ -103,11 +103,11 @@
       <span style="color: #ffffff; font-family: sans-serif; font-size: 13px; font-weight: bold; display: block; margin-top: 12px;">JavaScript</span>
     </td>
     <td align="center" width="120" height="120" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 15px;">
-      <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" /><br/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF_di9L8kawXiANw4xhc--TYowhstaXU6YXKKQfvSQyw&s=10" height="40" alt="Python" /><br/>
       <span style="color: #ffffff; font-family: sans-serif; font-size: 13px; font-weight: bold; display: block; margin-top: 12px;">Python</span>
     </td>
     <td align="center" width="120" height="120" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 15px;">
-      <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="Arduino" /><br/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuW68Gwn4-XZXOL2WMhd9bkKXRuIRjzAJ9wJ8hVk9eXw&s=10" height="40" alt="Arduino" /><br/>
       <span style="color: #ffffff; font-family: sans-serif; font-size: 13px; font-weight: bold; display: block; margin-top: 12px;">Arduino</span>
     </td>
   </tr>
