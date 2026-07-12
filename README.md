@@ -167,3 +167,9 @@
   <!-- Live Contribution Line Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DAiyan582&bg_color=0d1117&line=22c55e&point=22c55e&color=ffffff" width="100%" alt="Contribution Graph" />
 </p>
+
+<div align="left">
+
+## Connect with me 
+
+</div>
