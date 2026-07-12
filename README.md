@@ -6,6 +6,4 @@
 ![](https://img.shields.io/badge/Photography-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=180&section=header&text=Front-End%20Developer&fontSize=42&animation=fadeIn" width="100%"/>
-</p>
+<p align="center"><img src="image_0.png" width="100%" alt="Front-End Developer Banner"/></p>
