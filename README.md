@@ -1,11 +1,11 @@
 
-<p align="center">
+<div align="center">
   <samp>
     <h1>Make Life Easier🚀|Look through Lens📸|Entertain by GAMES 🎮</h1>
   </samp>
 </p>
 
-<p align="center">
+<div align="center">
   <samp>
     <h2>Hi 👋 I'm Daiyan Rahman</h2>
   </samp>
