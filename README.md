@@ -150,6 +150,17 @@
 
 </div>
 
-### 📊 My GitHub Activity
+## 🗃️ GitHub Activity
 
-[![Ashutosh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DAiyan582&theme=github-dark-orange)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=DAiyan582&show_icons=true&theme=default" height="195" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <!-- Most Used Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAiyan582&layout=compact&theme=default" height="195" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <!-- Live Contribution Line Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DAiyan582&theme=github-dark" width="100%" alt="Contribution Graph" />
+</p>
