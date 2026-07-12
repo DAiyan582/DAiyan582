@@ -12,6 +12,6 @@
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1516035069371-29a1b244cc32?q=80&w=1000&auto=format&fit=crop" alt="Photography Banner" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;"/>
+  <img src="images.jpeg" alt="Photography Banner" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;"/>
 </p>
 
