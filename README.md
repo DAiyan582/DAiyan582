@@ -23,11 +23,17 @@
     <td align="center" width="33.3%">
       <img src="Programming Rules GIF by ProductDock.gif" alt="Coding Rules" style="border: 2px solid #3b82f6; border-radius: 6px; width: 100%; max-width: 300px;" />
     </td>
-    <td align="center" width="33.3%">
+    <td align="center" width="20%">
       <img src="Road Rash Racing Games GIF.gif" alt="Road Rash" style="border: 2px solid #3b82f6; border-radius: 6px; width: 100%; max-width: 300px;" />
     </td>
-    <td align="center" width="33.3%">
+    <td align="center" width="20%">
       <img src="Photography Picture GIF by Houndstooth Media Group.gif" alt="Road Rash" style="border: 2px solid #3b82f6; border-radius: 6px; width: 100%; max-width: 300px;" />
+    </td>
+    <td align="center" width="20%">
+      <img src="gif.gif" alt="Road Rash" style="border: 2px solid #3b82f6; border-radius: 6px; width: 100%; max-width: 300px;" />
+    </td>
+    <td align="center" width="20%">
+      <img src="Nft Coding GIF.gif" alt="Road Rash" style="border: 2px solid #3b82f6; border-radius: 6px; width: 100%; max-width: 300px;" />
     </td>
   </tr>
 </table>
