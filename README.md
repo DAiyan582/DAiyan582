@@ -7,11 +7,14 @@
 
 
 
-<p align="left">
-  <img src="Systems and technology programming company logo.png" witdth="500" height="500"/>
-</p>
-
-<p align="right">
-  <img src="Black Illustrative Photography Logo.png" alt="Photography Banner" witdth="500" height="500"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="Systems and technology programming company logo.png" width="500" height="500" />
+    </td>
+    <td>
+      <img src="Black Illustrative Photography Logo.png" alt="Photography Banner" width="500" height="500" />
+    </td>
+  </tr>
+</table>
 
