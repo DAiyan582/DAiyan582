@@ -95,7 +95,7 @@
       <span style="color: #ffffff; font-family: sans-serif; font-size: 13px; font-weight: bold; display: block; margin-top: 12px;">HTML5</span>
     </td>
     <td align="center" width="120" height="120" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 15px;">
-      <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3" /><br/>
+      <img src="https://www.pngwing.com/en/search?q=css+Icon" height="40" alt="CSS3" /><br/>
       <span style="color: #ffffff; font-family: sans-serif; font-size: 13px; font-weight: bold; display: block; margin-top: 12px;">CSS3</span>
     </td>
     <td align="center" width="120" height="120" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 15px;">
