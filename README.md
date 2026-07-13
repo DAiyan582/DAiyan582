@@ -1,7 +1,7 @@
 
 <div align="center">
   <samp>
-    <h1>Make Life Easier <img src="Design Rocket GIF by Gofourward.gif" width=20px height=20px> |Look through Lens📸| Entertain by GAMES 🎮</h1>
+    <h1>Make Life Easier <img src="Outer Space GIF by evite.gif" width=20px height=20px> |Look through Lens📸| Entertain by GAMES 🎮</h1>
   </samp>
 </p>
 
