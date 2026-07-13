@@ -7,7 +7,7 @@
 
 <div align="center">
   <samp>
-    <h2>Hi <img src="gif (4).gif" width=80px height=80px> I'm Daiyan Rahman</h2>
+    <h2>Hi <img src="gif (4).gif" width=80 height=80> I'm Daiyan Rahman</h2>
 
   </samp>
 </p>
