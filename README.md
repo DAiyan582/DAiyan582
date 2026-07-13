@@ -76,9 +76,7 @@
       <img src="SYSTEM.png" alt="Frontend Developer" width="100%" />
     </td>
     <td align="center" width="50%">
-      <video width="50%" autoplay loop >
-        <source src="Black Illustrative Photography Logo.mp4" type="video/mp4">
-      </video>
+      <img src="Black Illustrative Photography Logo.png" alt="DAIYAN STUDIO" width="100%" />
     </td>
   </tr>
 </table>
