@@ -1,7 +1,7 @@
 
 <div align="center">
   <samp>
-    <h1>Make Life Easier<img src="Outer Space GIF by evite.gif" width=50px height=50px>|Look through Lens<img src="Movie Recording GIF by Windrich & Sörgel.gif" width=50px height=50px>|Entertain by GAMES<img src="Video Games Game GIF by DIVE INN - Die Innovationsagentur.gif" width=50px height=50px></h1>
+    <h1>Make Life Easier<img src="Outer Space GIF by evite.gif" width=50px height=50px>|Look through Lens<img src="Movie Recording GIF by Windrich & Sörgel.gif" width=45px height=45px>|Entertain by GAMES<img src="Video Games Game GIF by DIVE INN - Die Innovationsagentur.gif" width=45px height=45px></h1>
   </samp>
 </p>
 
