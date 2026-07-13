@@ -76,7 +76,7 @@
       <img src="SYSTEM.png" alt="Frontend Developer" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="Black Illustrative Photography Logo.mp4" alt="Daiyan Studio Photography" width="100%" />
+      <img src="Black Illustrative Photography Logo.mp4" type="video/mp4" alt="Daiyan Studio Photography" width="100%" />
     </td>
   </tr>
 </table>
@@ -191,3 +191,6 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCIxTT1tp06j_1ihADlZl8c4GqTQAb1l_kpWIyj4tEOQ&s=10" height="40" alt="Gmail" />
   </a>
 </p>
+
+
+[def]: lack Illustrative Photography Logo.mp
