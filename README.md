@@ -38,7 +38,7 @@
   </tr>
 </table>
 
-## <img src="Design Rocket GIF by Gofourward.gif" width=30px height=30px> About Me
+## <img src="Space Flying Sticker by Hobbykokken.gif" width=30px height=30px> About Me
 <div align="left">
 - 🌐 **Frontend Developer:** I build clean, interactive, and user-friendly web applications.
 - ⚡ **Hardware Enthusiast:** I love coding microcontrollers and building smart electronics projects with Arduino.
