@@ -76,7 +76,10 @@
       <img src="SYSTEM.png" alt="Frontend Developer" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="Black Illustrative Photography Logo.mp4" type="mp4" alt="Daiyan Studio Photography" width="100%" />
+     <video width="100%" autoplay muted loop playsinline>
+        <source src="Black Illustrative Photography Logo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
     </td>
   </tr>
 </table>
