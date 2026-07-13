@@ -78,7 +78,6 @@
     <td align="center" width="50%">
       <video width="50%" autoplay loop >
         <source src="Black Illustrative Photography Logo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
       </video>
     </td>
   </tr>
