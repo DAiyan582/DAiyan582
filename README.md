@@ -76,7 +76,7 @@
       <img src="SYSTEM.png" alt="Frontend Developer" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="Black Illustrative Photography Logo.mp4" type="video/mp4" alt="Daiyan Studio Photography" width="100%" />
+      <img src="Black Illustrative Photography Logo.mp4" type="mp4" alt="Daiyan Studio Photography" width="100%" />
     </td>
   </tr>
 </table>
