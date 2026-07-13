@@ -84,6 +84,9 @@
 ---
 <div align="left">
  <h1><img src="Safety Attention Sticker by aquaplus.gif" width=50px height=50px> My projects</h1>
+
+
+ 
 </div>
 
 <div align="left">
@@ -192,5 +195,3 @@
   </a>
 </p>
 
-
-[def]: lack Illustrative Photography Logo.mp
