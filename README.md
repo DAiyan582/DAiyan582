@@ -48,7 +48,7 @@
 </div>
 </div>
 
-### 🛠️ Tech Stack & Tools
+### <img src="Home Revitalize Sticker by rtsiliconvalley.gif" width=30px height=30px> Tech Stack & Tools
 
 ![](https://img.shields.io/badge/Arduino_Uno-Hardware-00979D?style=for-the-badge&logo=arduino&logoColor=cyan)
 ![](https://img.shields.io/badge/Python_3.x-Programming-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
