@@ -21,22 +21,20 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="15%">
+    <td align="center" width="20%">
       <img src="Programming Rules GIF by ProductDock.gif" alt="Coding Rules" style="border: 2px solid #3b82f6; border-radius: 6px; width: 100%; max-width: 180px;" />
     </td>
-    <td align="center" width="15%">
+    <td align="center" width="20%">
       <img src="Road Rash Racing Games GIF.gif" alt="Road Rash" style="border: 2px solid #3b82f6; border-radius: 6px; width: 100%; max-width: 180px;" />
     </td>
-    <td align="center" width="15%">
+    <td align="center" width="20%">
       <img src="Photography Picture GIF by Houndstooth Media Group.gif" alt="Photography" style="border: 2px solid #3b82f6; border-radius: 6px; width: 100%; max-width: 180px;" />
     </td>
-    <td align="center" width="15%">
+    <td align="center" width="20%">
       <img src="gif.gif" alt="Workspace Coding" style="border: 2px solid #3b82f6; border-radius: 6px; width: 100%; max-width: 180px;" />
     </td>
-    <td align="center" width="15%">
+    <td align="center" width="20%">
       <img src="Nft Coding GIF.gif" alt="NFT Coding" style="border: 2px solid #3b82f6; border-radius: 6px; width: 100%; max-width: 180px;" />
-       <td align="center" width="15%">
-      <img src="235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="NFT Coding" style="border: 2px solid #3b82f6; border-radius: 6px; width: 100%; max-width: 180px;" />
     </td>
   </tr>
 </table>
