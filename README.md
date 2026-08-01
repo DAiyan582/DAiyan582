@@ -158,18 +158,24 @@
 
 ## 🗃️ GitHub Activity
 
+</div>
 <p align="center">
-  <!-- Alternative Main Stats Card -->
-  <img src="https://vercel.app" height="195" alt="DAiyan582's GitHub Stats" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-stats-extended.vercel.app/api?username=DAiyan582&show_icons=true&bg_color=ffffff&title_color=000000&text_color=blue&icon_color=3b82f6" height="195" alt="DAiyan582's GitHub Stats" />
   &nbsp;&nbsp;
-  <!-- Alternative Languages Card -->
-  <img src="https://vercel.app" height="195" alt="DAiyan582's Most Used Languages" />
+  <!-- Most Used Languages Card -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DAiyan582&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000" height="195" alt="DAiyan582's Most Used Languages" />
 </p>
 
 <p align="center">
-  <!-- Alternative Activity Graph -->
-  <img src="https://vercel.app" width="100%" alt="Contribution Graph" />
+  <!-- Live Contribution Line Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DAiyan582&bg_color=0d1117&line=22c55e&point=22c55e&color=ffffff" width="100%" alt="Contribution Graph" />
 </p>
+
+<div align="left">
+
+
+fix the problem carefully
 
 
 ## 🤝 Connect with me 
