@@ -131,17 +131,6 @@ Developed a robust C-based simulation engine demonstrating advanced logic, dynam
 
 ---
 
-### ▶️ How to Run
-
-Here is the **properly formatted and fixed** code block for your `README.md`. 
-
-I have:
-1. **Closed the first `<details>` tag** properly.
-2. **Opened the second `<details>` tag** cleanly for the scorecard.
-3. **Corrected the indentation** and **removed the stray `bash` markers** inside the scorecard block so it displays as plain text (which is how code block outputs should look).
-
----
-
 
 ### ▶️ How to Run
 
