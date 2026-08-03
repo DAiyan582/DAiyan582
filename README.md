@@ -188,7 +188,7 @@ Selected as a standout project for system design, hardware integration, and prac
 > An Arduino Nano-powered robotic system focused on automating essential farming tasks including seed sowing, pesticide spraying, grass cutting, and autonomous field navigation, integrated with Bluetooth-based wireless control for user-friendly operation.
 
 🔗 **Repository:**  
-📁 `github.com/your-username/smart-agribot`
+📁 [`github.com/your-username/smart-agribot`](https://github.com/DAiyan582/MY-Prrvious-Projects/blob/main/Agri.zip) (code execusion)
 
 ---
 
