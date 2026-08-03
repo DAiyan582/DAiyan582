@@ -133,6 +133,20 @@ Developed a robust C-based simulation engine demonstrating advanced logic, dynam
 
 ### ▶️ How to Run
 
+Here is the **properly formatted and fixed** code block for your `README.md`. 
+
+I have:
+1. **Closed the first `<details>` tag** properly.
+2. **Opened the second `<details>` tag** cleanly for the scorecard.
+3. **Corrected the indentation** and **removed the stray `bash` markers** inside the scorecard block so it displays as plain text (which is how code block outputs should look).
+
+---
+
+### Copy and paste this into your `README.md`:
+
+```markdown
+### ▶️ How to Run
+
 <details>
 <summary>Click to expand setup & execution instructions</summary>
 
@@ -142,10 +156,17 @@ gcc cricket_simulator.c -o cricket_simulator
 
 # 2. Run the simulation
 ./cricket_simulator
+```
+</details>
 
- 
+---
+
+### 📝 Example Output
+
+<details>
 <summary>Click to view a sample generated scorecard</summary>
 
+```
 ============================================
 Team: Bangladesh
 Total: 245/6 in 50.0 overs
@@ -157,8 +178,9 @@ Tamim         34    45     4   0   75.55 (c Caught)
 ...
 ============================================
 [✓] Scorecard saved to 'scorecard.txt'.
+```
 </details>
-
+```
 
 
 # 🤖 Smart Agribot for Precision Farming
