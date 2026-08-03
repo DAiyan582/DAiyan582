@@ -291,17 +291,22 @@ Selected as a standout project for system design, hardware integration, and prac
 
 </div>
 <p align="center">
+  <!-- GitHub Stats Card -->
   <img 
-    src="https://github-stats-extended.vercel.app/api?username=DAiyan582&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=3b82f6" 
+    src="https://github-readme-stats.vercel.app/api?username=DAiyan582&show_icons=true&theme=radical&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=3b82f6&rank_icon=github" 
     height="195" 
     alt="DAiyan582's GitHub Stats" 
   />
+  
   <span>&nbsp;&nbsp;&nbsp;</span>
+  
+  <!-- Top Languages Card -->
   <img 
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=DAiyan582&bg_color=ffffff&title_color=000000&text_color=000000" 
-  height="195" 
-  alt="DAiyan582's Most Used Languages" 
-/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAiyan582&layout=compact&theme=radical&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000" 
+    height="195" 
+    alt="DAiyan582's Most Used Languages" 
+  />
+</p>
 </p>
 <p align="center">
   <!-- Live Contribution Line Graph -->
