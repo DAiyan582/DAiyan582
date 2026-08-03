@@ -19,27 +19,6 @@
 *Currently coding modern user experiences and engineering electronics projects ✨*
 *Still learn the Languages mentined  ✨*
 
----
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="20%">
-      <img src="Programming Rules GIF by ProductDock.gif" alt="Coding Rules" style="border: 2px solid #3b82f6; border-radius: 6px; width: 100%; max-width: 180px;" />
-    </td>
-    <td align="center" width="20%">
-      <img src="Road Rash Racing Games GIF.gif" alt="Road Rash" style="border: 2px solid #3b82f6; border-radius: 6px; width: 100%; max-width: 180px;" />
-    </td>
-    <td align="center" width="20%">
-      <img src="Photography Picture GIF by Houndstooth Media Group.gif" alt="Photography" style="border: 2px solid #3b82f6; border-radius: 6px; width: 100%; max-width: 180px;" />
-    </td>
-    <td align="center" width="20%">
-      <img src="gif.gif" alt="Workspace Coding" style="border: 2px solid #3b82f6; border-radius: 6px; width: 100%; max-width: 180px;" />
-    </td>
-    <td align="center" width="20%">
-      <img src="Nft Coding GIF.gif" alt="NFT Coding" style="border: 2px solid #3b82f6; border-radius: 6px; width: 100%; max-width: 180px;" />
-    </td>
-  </tr>
-</table>
 
 ## <img src="Space Flying Sticker by Hobbykokken.gif" width=50px height=50px> About Me
 <div align="left">
