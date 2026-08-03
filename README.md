@@ -159,10 +159,10 @@
 ## 🗃️ GitHub Activity
 
 </div>
+
 <p align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-stats-extended.vercel.app/api?username=DAiyan582&show_icons=true&bg_color=ffffff&title_color=000000&text_color=blue&icon_color=3b82f6" height="195" alt="DAiyan582's GitHub Stats" />
-  &nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?](http://github-profile-summary-cards.vercel.app/api/cards/productive-time username=DAiyan582&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000" height="195" alt="DAiyan582's Most Used Languages" />
   <!-- Most Used Languages Card -->
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DAiyan582&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000" height="195" alt="DAiyan582's Most Used Languages" />
 </p>
@@ -172,7 +172,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DAiyan582&bg_color=0d1117&line=22c55e&point=22c55e&color=ffffff" width="100%" alt="Contribution Graph" />
 </p>
 
-<div align="left">
+<div align=left>
+
+
 
 ## 🤝 Connect with me 
 
