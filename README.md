@@ -91,7 +91,7 @@
 - **Frontend:** HTML5 · CSS3 · Vanilla JS
 - **State & Data:** `localStorage` (persistence)
 - **API:** [Piston API](https://github.com/engineer-man/piston) (code execution)
-<d/etails>
+</details>
 
 ---
 
