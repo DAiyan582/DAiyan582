@@ -213,6 +213,44 @@ Selected as a standout project for system design, hardware integration, and prac
 
 
 
+# 🚍 UIU Go! – Smart Campus Bus Tracking System
+
+**Real-Time Public Transport Tracking for UIU**
+
+🏆 **Award: Top Academic Project – System Analysis & Design Course**  
+Developed a comprehensive SRS and prototype for a smart campus transit solution, demonstrating advanced system analysis, user-centric design, and real-world problem-solving capabilities.
+
+> A frontend-driven campus transport platform focused on real-time bus tracking, dynamic route optimization, delay alerts, and user experience, integrated with GPS telematics and data-driven analytics for modern campus mobility.
+
+🔗 **Repository:**  
+📁 [`github.com/DAiyan582/uiu-go-bus-tracker`](https://github.com/DAiyan582/MY-Prrvious-Projects/blob/main/SRS%20DOCUMENT.zip) (code execusion)
+
+---
+
+### 🚀 What I Built (End-to-End):
+
+- **Designed and built real-time bus tracking flows** – Integrated GPS live location updates onto an interactive map interface, allowing students and staff to track bus positions instantly.
+- **Implemented comprehensive admin & driver dashboards** – Created administrative tools for route management, schedule updates, and operational analytics, along with a dedicated driver app for location sharing.
+- **Created intelligent delay & notification system** – Developed automated alert features for route delays, ETA changes, and service disruptions, ensuring commuters stay informed in real-time.
+- **Built responsive, mobile-first UI layouts** – Designed high-fidelity prototypes in Figma for both mobile and web, ensuring a seamless experience across all devices.
+- **Integrated Google Maps API & Chart.js analytics** – Embedded interactive mapping for live routing and visualization tools for performance metrics, delay patterns, and ridership trends.
+- **Designed scalable system architecture** – Produced comprehensive UML diagrams (Context, Use-Case, Activity, DFD, Class, CRC) to outline robust, scalable backend and data flows for future IoT and smart campus integration.
+
+---
+
+### 🛠️ Tech Stack
+<details>
+`Figma` · `Google Maps API` · `Chart.js` · `UML Diagrams`  
+`System Analysis` · `UI/UX Architecture` · `Prototyping`  
+`SRS Documentation` · `Data Flow Diagrams` · `Smart Campus Solutions`
+
+---
+</details>
+
+
+
+
+
 
  
 </div>
