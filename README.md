@@ -142,9 +142,7 @@ I have:
 
 ---
 
-### Copy and paste this into your `README.md`:
 
-```markdown
 ### ▶️ How to Run
 
 <details>
