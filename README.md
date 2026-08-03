@@ -151,7 +151,7 @@
   />
   <span>&nbsp;&nbsp;&nbsp;</span>
   <img 
-    src= "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DAiyan582&theme=default"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DAiyan582&theme=default&e.g., exclude_repos=vn7n24fzkq/dotfiles" 
     height="195" 
     alt="DAiyan582's Most Used Languages" 
   />
