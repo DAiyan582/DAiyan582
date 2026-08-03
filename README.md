@@ -159,7 +159,6 @@ gcc cricket_simulator.c -o cricket_simulator
 ```
 </details>
 
----
 
 ### 📝 Example Output
 
@@ -180,8 +179,6 @@ Tamim         34    45     4   0   75.55 (c Caught)
 [✓] Scorecard saved to 'scorecard.txt'.
 ```
 </details>
-```
-
 
 # 🤖 Smart Agribot for Precision Farming
 
