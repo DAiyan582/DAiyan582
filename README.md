@@ -160,14 +160,12 @@
 
 </div>
 <p align="center">
-  <!-- GitHub Stats Card -->
   <img 
     src="https://github-stats-extended.vercel.app/api?username=DAiyan582&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=3b82f6" 
     height="195" 
     alt="DAiyan582's GitHub Stats" 
   />
-  
-  <!-- Most Used Languages Card -->
+  <span>&nbsp;&nbsp;&nbsp;</span>
   <img 
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=DAiyan582&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000" 
     height="195" 
