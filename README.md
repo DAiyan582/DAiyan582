@@ -143,7 +143,7 @@ gcc cricket_simulator.c -o cricket_simulator
 # 2. Run the simulation
 ./cricket_simulator
 
-<details> 
+ 
 <summary>Click to view a sample generated scorecard</summary>
 
 ============================================
@@ -157,7 +157,7 @@ Tamim         34    45     4   0   75.55 (c Caught)
 ...
 ============================================
 [✓] Scorecard saved to 'scorecard.txt'.
-
+</details>
 
 
 
