@@ -66,6 +66,9 @@
 <div align="left">
  <h1><img src="Safety Attention Sticker by aquaplus.gif" width=50px height=50px> My projects</h1>
 
+ -Still doesn't add<br> 
+ -Sorry for that viewers.
+
 
  
 </div>
