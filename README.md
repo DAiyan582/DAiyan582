@@ -291,6 +291,7 @@ Selected as a standout project for system design, hardware integration, and prac
 
 </div>
 <p align="center">
+  <!-- Stats -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=DAiyan582&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=3b82f6" 
     height="195" 
@@ -299,6 +300,7 @@ Selected as a standout project for system design, hardware integration, and prac
   
   <span>&nbsp;&nbsp;&nbsp;</span>
   
+  <!-- Languages -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAiyan582&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000" 
     height="195" 
