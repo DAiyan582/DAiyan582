@@ -327,7 +327,7 @@ Developed a comprehensive SRS and prototype for a smart campus transit solution,
 </div>
 <p align="center">
   <img 
-    src="https://github-stats-extended.vercel.app/api?username=DAiyan582&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=3b82f6" 
+    src="https://github.com/topics/status-bar?username=DAiyan582&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=3b82f6" 
     height="195" 
     alt="DAiyan582's GitHub Stats" 
   />
