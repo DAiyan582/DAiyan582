@@ -158,6 +158,48 @@ Tamim         34    45     4   0   75.55 (c Caught)
 ============================================
 [✓] Scorecard saved to 'scorecard.txt'.
 
+
+
+
+# 🤖 Smart Agribot for Precision Farming
+
+**An Automated Arduino-Based Agricultural Robot**
+
+🏆 **Award: Top-Performing Academic Project – Electronics Laboratory (EEE 2124)**  
+Selected as a standout project for system design, hardware integration, and practical application of microcontroller-based automation. Successfully implemented 4 core agricultural features with a 5-member team.
+
+> An Arduino Nano-powered robotic system focused on automating essential farming tasks including seed sowing, pesticide spraying, grass cutting, and autonomous field navigation, integrated with Bluetooth-based wireless control for user-friendly operation.
+
+🔗 **Repository:**  
+📁 `github.com/your-username/smart-agribot`
+
+---
+
+### 🚀 What I Built (End-to-End):
+
+- **Designed & built an autonomous 4-wheel drive chassis** – Integrated 4 gear motors with an L298N motor driver for precise forward, backward, and turning navigation across agricultural fields.
+- **Implemented a precision seed-sowing mechanism** – Used a servo motor to control the angle of the seed dispenser, ensuring accurate and efficient seed placement at pre-defined intervals.
+- **Developed a pesticide spraying system** – Controlled a pump motor via a 2-channel relay module to dispense pesticides and fertilizers evenly over crops.
+- **Created an automated grass-cutting feature** – Activated a high-speed DC motor using the relay module to operate a cutting blade for field maintenance and weed control.
+- **Integrated wireless Bluetooth control** – Used an HC-05 module to receive commands from a mobile app, allowing remote operation of all features (movement, sowing, spraying, cutting).
+- **Built a robust power management system** – Utilized an 18650 lithium-ion battery and a buck module to provide a stable 5V supply to the Arduino Nano and all peripherals.
+
+---
+
+### 🛠️ Tech Stack
+
+`Arduino Nano` · `C++ (Arduino IDE)` · `Bluetooth (HC-05)`  
+`Motor Drivers (L298N)` · `Relay Modules` · `Servo Motors`  
+`Circuit Design (Proteus)` · `Hardware Integration` · `Embedded Systems`
+
+---
+
+### 📁 Repository Structure
+
+
+
+
+
  
 </div>
 
