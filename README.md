@@ -22,10 +22,10 @@
 
 ## <img src="Space Flying Sticker by Hobbykokken.gif" width=50px height=50px> About Me
 <div align="left">
-- 🌐 Frontend Developer: I build clean, interactive, and user-friendly web applications.
-- ⚡ Hardware Enthusiast: I love coding microcontrollers and building smart electronics projects with Arduino.
-- 📸 Photographer: I capture the world through a lens and run my own brand, Daiyan Studio.
-- 🎮 Gamer & Explorer: I enjoy playing classic games and learning new technologies.
+- 🌐 Frontend Developer: Crafting clean, responsive, and user-friendly web experiences.
+- 🎮 Gamer: Passionate about exploring immersive games and virtual worlds.
+- 📸 Photographer: Capturing moments through the lens with Daiyan Studio.
+- 🎨 UI/UX Enthusiast: Designing intuitive, aesthetic, and user-centered interfaces.
 - 🎯 Goal: I love combining software, hardware, and photography to bring creative ideas to life.
 </div>
 </div>
