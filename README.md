@@ -99,6 +99,50 @@
 
 
 
+# 🏏 Cricket Match Simulator (C)
+
+**A 50-Overs Cricket Match Simulation Tool**
+
+> A console-driven cricket simulator focused on realistic match logic, dynamic batting order, probability-based event generation, live score tracking, and automated scorecard export.
+
+---
+
+### 🏆 Award
+**A-Grade Academic Project**  
+Developed a robust C-based simulation engine demonstrating advanced logic, dynamic state management, and file I/O. Awarded top marks for algorithmic complexity and real-world application.
+
+---
+
+### 🚀 What I Built (End-to-End)
+
+- **Realistic Innings Logic** – Dynamic batting order updates only after wickets fall; innings ends precisely at 10 wickets or 50 overs.
+- **Probability-Based Event Engine** – Uses randomized logic for dot balls, singles, boundaries (4s/6s), wickets, and extras (No-balls/Wides).
+- **Live Score Updates** – Displays team score, overs, and active batsman stats after every over or wicket.
+- **Player Performance Tracking** – Tracks runs, balls faced, strike rate, 4s, 6s, and dismissal types for all 11 batsmen.
+- **Automated Scorecard Export** – Writes clean, tabular match summaries to `scorecard.txt` using robust file I/O.
+
+---
+
+### 🛠️ Tech Stack
+
+- **Language:** C
+- **Core Concepts:** Structures · Pointers · File I/O
+- **Logic:** Randomization · Algorithm Design · Data Persistence
+
+---
+
+### ▶️ How to Run
+
+```bash
+# 1. Compile the program
+gcc cricket_simulator.c -o cricket_simulator
+
+# 2. Run the simulation
+./cricket_simulator
+
+
+
+
 
  
 </div>
