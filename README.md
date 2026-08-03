@@ -66,8 +66,38 @@
 <div align="left">
  <h1><img src="Safety Attention Sticker by aquaplus.gif" width=50px height=50px> My projects</h1>
 
- -Still doesn't add<br> 
- -Sorry for that viewers.
+# DSAhub – DSA Practice Platform
+> A frontend-driven study tool for question banks, interactive coding, and community engagement.
+
+🏆 **Production-ready, fully client-side web app.**
+
+---
+
+### 🚀 What I Built (End-to-End)
+
+- **Dynamic Question Bank:** 30+ DSA problems with multi-filter search (Topic/Difficulty/Status) and sort options.
+- **Interactive Code Runner:** 15+ languages via Piston API; includes syntax highlight, line numbers, copy/paste, format, download, share, and local history.
+- **Auth & Progress:** Login/Register with validation; track solved/unsolved, streaks, bookmarks, and user profile badges.
+- **Community Hub:** Discussion forum, peer code review, and leaderboard.
+- **UI/UX:** Dark/Light mode, reading mode, font controls, pagination, toast notifications, keyboard shortcuts, and full responsive design.
+
+---
+
+### 🛠️ Tech Stack
+
+- **Frontend:** HTML5 · CSS3 · Vanilla JS
+- **State & Data:** `localStorage` (persistence)
+- **API:** [Piston API](https://github.com/engineer-man/piston) (code execution)
+
+---
+
+### ▶️ How to Run
+
+1. Clone the repository.
+2. Open `update-06-LOGIN.html` in any modern browser.
+3. No build tools or servers required.
+
+
 
 
  
