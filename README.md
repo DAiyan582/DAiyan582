@@ -96,11 +96,11 @@
 ---
 
 ### ▶️ How to Run
-
+<details>
 1. Clone the repository.
 2. Open `update-06-LOGIN.html` in any modern browser.
 3. No build tools or servers required.
-
+</details>
 
 
 # 🏏 Cricket Match Simulator (C)
@@ -174,6 +174,8 @@ Tamim         34    45     4   0   75.55 (c Caught)
 ```
 </details>
 
+
+
 # 🤖 Smart Agribot for Precision Farming
 
 **An Automated Arduino-Based Agricultural Robot**
@@ -200,14 +202,13 @@ Selected as a standout project for system design, hardware integration, and prac
 ---
 
 ### 🛠️ Tech Stack
-
+<details>
 `Arduino Nano` · `C++ (Arduino IDE)` · `Bluetooth (HC-05)`  
 `Motor Drivers (L298N)` · `Relay Modules` · `Servo Motors`  
 `Circuit Design (Proteus)` · `Hardware Integration` · `Embedded Systems`
 
 ---
-
-### 📁 Repository Structure
+</details>
 
 
 
