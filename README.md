@@ -169,7 +169,7 @@
   
   <!-- Most Used Languages Card -->
   <img 
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=DAiyan582&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000" 
+    src="https://github-profile-summary-cards.vercel.app/demo"
     height="195" 
     alt="DAiyan582's Most Used Languages" 
   />
