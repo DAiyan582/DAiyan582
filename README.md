@@ -151,10 +151,10 @@
   />
   <span>&nbsp;&nbsp;&nbsp;</span>
   <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DAiyan582&theme=default&e.g., exclude_repos=vn7n24fzkq/dotfiles" 
-    height="195" 
-    alt="DAiyan582's Most Used Languages" 
-  />
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=DAiyan582&bg_color=ffffff&title_color=000000&text_color=000000" 
+  height="195" 
+  alt="DAiyan582's Most Used Languages" 
+/>
 </p>
 <p align="center">
   <!-- Live Contribution Line Graph -->
