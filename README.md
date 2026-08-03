@@ -151,7 +151,7 @@
   />
   <span>&nbsp;&nbsp;&nbsp;</span>
   <img 
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=DAiyan582&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000" 
+    src= "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DAiyan582&theme={theme_name}&exclude={exclude}"
     height="195" 
     alt="DAiyan582's Most Used Languages" 
   />
