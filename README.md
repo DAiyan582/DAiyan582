@@ -130,10 +130,11 @@ Developed a robust C-based simulation engine demonstrating advanced logic, dynam
 ---
 
 ### 🛠️ Tech Stack
-
+<details>
 - **Language:** C
 - **Core Concepts:** Structures · Pointers · File I/O
 - **Logic:** Randomization · Algorithm Design · Data Persistence
+</details>
 
 ---
 
