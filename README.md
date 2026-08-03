@@ -14,7 +14,7 @@
 
 ### Frontend Developer • Love to play GAMEAS • Photographer • UI/UX 
 
- <img src="242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" alt="Coding Rules" style="border: 2px solid #3b82f6; border-radius: 6px; width: 100%; max-width: 180px;" />
+ <img src="table.gif" alt="Coding Rules" style="border: 2px solid #3b82f6; border-radius: 6px; width: 100%; max-width: 180px;" />
 
 *Currently coding modern user experiences and engineering electronics projects ✨*
 *Still learn the Languages mentined  ✨*
