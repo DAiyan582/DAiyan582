@@ -133,6 +133,9 @@ Developed a robust C-based simulation engine demonstrating advanced logic, dynam
 
 ### ▶️ How to Run
 
+<details>
+<summary>Click to expand setup & execution instructions</summary>
+
 ```bash
 # 1. Compile the program
 gcc cricket_simulator.c -o cricket_simulator
