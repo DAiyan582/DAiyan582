@@ -162,7 +162,9 @@
 
 <p align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?](http://github-profile-summary-cards.vercel.app/api/cards/productive-time username=DAiyan582&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000" height="195" alt="DAiyan582's Most Used Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username={username}&theme={theme_name}
+  
+  " height="195" alt="DAiyan582's Most Used Languages" />
   <!-- Most Used Languages Card -->
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DAiyan582&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000" height="195" alt="DAiyan582's Most Used Languages" />
 </p>
