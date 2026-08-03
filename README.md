@@ -150,12 +150,10 @@
     alt="DAiyan582's GitHub Stats" 
   />
   <span>&nbsp;&nbsp;&nbsp;</span>
-   <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAiyan582&layout=compact&theme=default&hide_title=true" 
-  height="195" 
-  width="495"
-  alt="DAiyan582's Most Used Languages" 
-/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAiyan582&layout=compact&theme=default&hide_title=true&card_width=495"  
+    height="195" 
+    alt="DAiyan582's Most Used Languages" 
+  />
 </p>
 <p align="center">
   <!-- Live Contribution Line Graph -->
