@@ -143,9 +143,20 @@ gcc cricket_simulator.c -o cricket_simulator
 # 2. Run the simulation
 ./cricket_simulator
 
+<details> 
+<summary>Click to view a sample generated scorecard</summary>
 
-
-
+============================================
+Team: Bangladesh
+Total: 245/6 in 50.0 overs
+============================================
+Batsman       Runs  Balls  4s  6s   SR
+--------------------------------------------
+Shakib        85    102    8   2   83.33 (Not Out)
+Tamim         34    45     4   0   75.55 (c Caught)
+...
+============================================
+[✓] Scorecard saved to 'scorecard.txt'.
 
  
 </div>
