@@ -20,7 +20,7 @@
 *Still learn the Languages mentined  ✨*
 
 
-## <img src="Space Flying Sticker by Hobbykokken.gif" width=50px height=50px> About Me
+## <img src="Space Flying Sticker by Hobbykokken.gif" width=50px height=50px> About Me <img src="repeat.gif" width=50px height=50px>
 <div align="left">
 - 🌐 Frontend Developer: Crafting clean, responsive, and user-friendly web experiences.
 - 🎮 Gamer: Passionate about exploring immersive games and virtual worlds.
