@@ -57,7 +57,7 @@
       <img src="SYSTEM.png" alt="Frontend Developer" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="Black Illustrative Photography Logo.png" alt="DAIYAN STUDIO" width="100%" />
+      <img src="camera.gif" alt="DAIYAN STUDIO" width="100%" />
     </td>
   </tr>
 </table>
