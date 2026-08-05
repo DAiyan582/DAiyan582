@@ -248,7 +248,38 @@ Developed a comprehensive SRS and prototype for a smart campus transit solution,
 </details>
 
 
+# 🏠 Tenant Management System (TMS)
 
+**An Integrated Property & Rental Management Platform**
+
+🏆 **Award: Top Academic Project – Project Management & Software Engineering**  
+Developed a comprehensive Software Engineering plan (SRS, WBS, COCOMO, FPA, Risk Plan) and system design for a modern rental management solution.
+
+> A centralized web platform streamlining the rental lifecycle—tenant onboarding, automated rent collection, maintenance tracking, and financial dashboards, built with Agile (Scrum) methodologies.
+
+🔗 **Repository:**  
+📁 `github.com/your-username/tenant-management-system`
+
+---
+
+### 🚀 What I Built (End-to-End):
+
+- **Tenant & Property Management** – Digital applications, tenant screening, lease management, and centralized dashboards.
+- **Automated Financial System** – Online payment portal, rent reminders, real-time tracking, and detailed reporting for owners & managers.
+- **Maintenance Request Workflow** – Tenant-initiated tickets, real-time status updates, contractor assignment, and centralized history logs.
+- **Unified Communication Hub** – In-app messaging, broadcast announcements, and a centralized document repository for leases & policies.
+- **Insightful Manager & Owner Dashboards** – Single-pane performance metrics for vacancies, rent efficiency, and financial health.
+- **Comprehensive Project Management** – WBS, Wideband Delphi estimation, COCOMO, FPA, and RMMM risk management plan.
+
+---
+
+### 🛠️ Tech Stack
+<details>
+`Agile (Scrum)` · `Jira` · `Git & GitHub` · `COCOMO`  
+`FPA` · `WBS & Gantt` · `Risk Management` · `CMMI` · `SDLC`
+
+---
+</details>
 
 
 
