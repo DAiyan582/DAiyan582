@@ -313,12 +313,11 @@ Developed a hybrid deep learning model (CNN + TF-IDF) achieving **93.17% accurac
 - **Integrated Real-Time API Endpoints** – Exposed `/predict` and `/health` routes for seamless frontend-backend communication, ensuring quick inference with minimal latency.
 </details>
 ## 📈 4. Performance Analytics & Visualization
-
+<details>
 - **Built Comprehensive Performance Dashboards** – Utilized Matplotlib to generate epoch-based accuracy/loss curves, allowing for deep analysis of model convergence and overfitting behavior.
 - **Generated Interactive HTML Reports** – Auto-generated color-coded HTML tables categorizing predictions (SPAM vs. LEGITIMATE) with high-confidence highlighting, suitable for easy review and presentation.
 - **Tracked Key ML Metrics** – Monitored test accuracy, precision, recall, and F1-score (92.19%) to ensure the model's reliability in real-world cybersecurity applications.
-
----
+</details>
 
 ## 🛠️ Tech Stack
 <details>
