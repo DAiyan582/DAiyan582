@@ -258,7 +258,7 @@ Developed a comprehensive Software Engineering plan (SRS, WBS, COCOMO, FPA, Risk
 > A centralized web platform streamlining the rental lifecycle—tenant onboarding, automated rent collection, maintenance tracking, and financial dashboards, built with Agile (Scrum) methodologies.
 
 🔗 **Repository:**  
-📁 `github.com/your-username/tenant-management-system`
+📁 [`github.com/DAiyan582/tenant-management-system`](https://github.com/DAiyan582/MY-Prrvious-Projects/blob/main/TMS_REPORT_FOR_PMG.pdf) (code execusion)
 
 ---
 
@@ -277,10 +277,55 @@ Developed a comprehensive Software Engineering plan (SRS, WBS, COCOMO, FPA, Risk
 <details>
 `Agile (Scrum)` · `Jira` · `Git & GitHub` · `COCOMO`  
 `FPA` · `WBS & Gantt` · `Risk Management` · `CMMI` · `SDLC`
-
----
 </details>
 
+
+# 📱 SMISHING Detector – SMS Phishing & Spam Detection
+
+**Hybrid AI Model for Real-Time SMS Security**
+
+🏆 **Award: Top Academic Project – Machine Learning & Deep Learning**  
+Developed a hybrid deep learning model (CNN + TF-IDF) achieving **93.17% accuracy** and **92.19% F1-Score** on a combined dataset of 5,679 multilingual SMS messages. Selected for outstanding system design, dataset integration, and practical cybersecurity application.
+
+> A front-end AI-powered security platform focused on real-time SMS spam/phishing detection, utilizing a hybrid neural network architecture, batch prediction capabilities, and web-based user interfaces, integrated with comprehensive performance analytics and interactive visualization tools.
+
+🔗 **Repository:**  
+📁 [`github.com/your-DAiyan582/smishing-detector`](https://github.com/DAiyan582/MY-Prrvious-Projects/blob/main/SMS%20PHISHING%20DETECTION-DAIYAN%26MARIA.zip) (code execussion)
+
+---
+
+## 🧠 1. Model Architecture & Engineering
+<details>
+- **Designed a Hybrid Deep Learning Architecture** – Integrated a 1D-CNN (Convolutional Neural Network) for sequential text learning with a TF-IDF vectorizer for sparse feature extraction, combining two neural branches to maximize classification accuracy.
+- **Built a Dual-Input Neural Graph** – Implemented TensorFlow/Keras functional API to merge CNN-processed sequence data with dense TF-IDF vectors, achieving robust performance on multilingual datasets.
+- **Led Complete ML Lifecycle Management** – Handled end-to-end model building, hyperparameter tuning, training, evaluation (Precision, Recall, F1-Score), and serialization (`.h5` models and `pickle` vectorizers).
+</details>
+## 📊 2. Data Preprocessing & Pipeline
+<details>
+- **Merged 6 Diverse Datasets** – Unified English and Bangla SMS data into a single corpus of **5,679 messages**, ensuring broad linguistic coverage.
+- **Implemented Custom Text-Cleaning Pipelines** – Built regex-based cleaning functions to handle punctuation, numbers, and language-specific characters for both CNN tokenization and TF-IDF vectorization.
+- **Managed Sequence Padding & Tokenization** – Configured Keras tokenizers and `pad_sequences` to standardize input lengths, preventing data leakage during train/test splits.
+</details>
+## 💻 3. Application & Deployment
+<details>
+- **Created an Interactive Web-Based SMS Detector** – Developed a responsive HTML/JS frontend that connects to a Flask backend API, allowing users to paste messages and receive real-time SPAM/LEGITIMATE predictions with confidence scores.
+- **Developed a Batch Prediction & Reporting System** – Built Python scripts to process bulk CSV/XLS files (supporting 150+ messages), automatically generating formatted HTML and CSV reports with statistical summaries (spam rate, total counts).
+- **Integrated Real-Time API Endpoints** – Exposed `/predict` and `/health` routes for seamless frontend-backend communication, ensuring quick inference with minimal latency.
+</details>
+## 📈 4. Performance Analytics & Visualization
+
+- **Built Comprehensive Performance Dashboards** – Utilized Matplotlib to generate epoch-based accuracy/loss curves, allowing for deep analysis of model convergence and overfitting behavior.
+- **Generated Interactive HTML Reports** – Auto-generated color-coded HTML tables categorizing predictions (SPAM vs. LEGITIMATE) with high-confidence highlighting, suitable for easy review and presentation.
+- **Tracked Key ML Metrics** – Monitored test accuracy, precision, recall, and F1-score (92.19%) to ensure the model's reliability in real-world cybersecurity applications.
+
+---
+
+## 🛠️ Tech Stack
+<details>
+`Python` · `TensorFlow / Keras` · `Flask` · `HTML / CSS / JS`  
+`Pandas` · `NumPy` · `Matplotlib` · `Scikit-Learn`  
+`CNN` · `TF-IDF` · `NLP` · `Model Serialization` · `API Integration`
+</details>
 
 
  
