@@ -294,29 +294,29 @@ Developed a hybrid deep learning model (CNN + TF-IDF) achieving **93.17% accurac
 
 
 ## 🧠 1. Model Architecture & Engineering
-<details>
+
 - **Designed a Hybrid Deep Learning Architecture** – Integrated a 1D-CNN (Convolutional Neural Network) for sequential text learning with a TF-IDF vectorizer for sparse feature extraction, combining two neural branches to maximize classification accuracy.
 - **Built a Dual-Input Neural Graph** – Implemented TensorFlow/Keras functional API to merge CNN-processed sequence data with dense TF-IDF vectors, achieving robust performance on multilingual datasets.
 - **Led Complete ML Lifecycle Management** – Handled end-to-end model building, hyperparameter tuning, training, evaluation (Precision, Recall, F1-Score), and serialization (`.h5` models and `pickle` vectorizers).
-</details>
+
 ## 📊 2. Data Preprocessing & Pipeline
-<details>
+
 - **Merged 6 Diverse Datasets** – Unified English and Bangla SMS data into a single corpus of **5,679 messages**, ensuring broad linguistic coverage.
 - **Implemented Custom Text-Cleaning Pipelines** – Built regex-based cleaning functions to handle punctuation, numbers, and language-specific characters for both CNN tokenization and TF-IDF vectorization.
 - **Managed Sequence Padding & Tokenization** – Configured Keras tokenizers and `pad_sequences` to standardize input lengths, preventing data leakage during train/test splits.
-</details>
+
 ## 💻 3. Application & Deployment
-<details>
+
 - **Created an Interactive Web-Based SMS Detector** – Developed a responsive HTML/JS frontend that connects to a Flask backend API, allowing users to paste messages and receive real-time SPAM/LEGITIMATE predictions with confidence scores.
 - **Developed a Batch Prediction & Reporting System** – Built Python scripts to process bulk CSV/XLS files (supporting 150+ messages), automatically generating formatted HTML and CSV reports with statistical summaries (spam rate, total counts).
 - **Integrated Real-Time API Endpoints** – Exposed `/predict` and `/health` routes for seamless frontend-backend communication, ensuring quick inference with minimal latency.
-</details>
+
 ## 📈 4. Performance Analytics & Visualization
-<details>
+
 - **Built Comprehensive Performance Dashboards** – Utilized Matplotlib to generate epoch-based accuracy/loss curves, allowing for deep analysis of model convergence and overfitting behavior.
 - **Generated Interactive HTML Reports** – Auto-generated color-coded HTML tables categorizing predictions (SPAM vs. LEGITIMATE) with high-confidence highlighting, suitable for easy review and presentation.
 - **Tracked Key ML Metrics** – Monitored test accuracy, precision, recall, and F1-score (92.19%) to ensure the model's reliability in real-world cybersecurity applications.
-</details>
+
 
 ## 🛠️ Tech Stack
 <details>
