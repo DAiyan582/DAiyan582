@@ -335,7 +335,7 @@ Developed a hybrid deep learning model (CNN + TF-IDF) achieving **93.17% accurac
 <table align="center">
   <tr>
     <td align="center" width="120" height="120" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 15px;">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHynqWJV4JaQhoAr57c0FzclG7pgYQE-0yN1LlUJNV1g&s=10" height="40" alt="HTML5" /><br/>
+      <img src="HTML.gif" height="40" alt="HTML5" /><br/>
       <span style="color: #ffffff; font-family: sans-serif; font-size: 13px; font-weight: bold; display: block; margin-top: 12px;">HTML5</span>
     </td>
     <td align="center" width="120" height="120" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 15px;">
