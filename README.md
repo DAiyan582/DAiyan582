@@ -339,15 +339,15 @@ Developed a hybrid deep learning model (CNN + TF-IDF) achieving **93.17% accurac
       <span style="color: #ffffff; font-family: sans-serif; font-size: 13px; font-weight: bold; display: block; margin-top: 12px;">HTML5</span>
     </td>
     <td align="center" width="120" height="120" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 15px;">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJYOYkBAkaONL0ljXCJw8qjBEZTpwVWtGKrqw4Tu8zw&s=10" height="40" alt="CSS3" /><br/>
+      <img src="CSS.gif" height="40" alt="CSS3" /><br/>
       <span style="color: #ffffff; font-family: sans-serif; font-size: 13px; font-weight: bold; display: block; margin-top: 12px;">CSS3</span>
     </td>
     <td align="center" width="120" height="120" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 15px;">
-      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" /><br/>
+      <img src="JS.gif" height="40" alt="JavaScript" /><br/>
       <span style="color: #ffffff; font-family: sans-serif; font-size: 13px; font-weight: bold; display: block; margin-top: 12px;">JavaScript</span>
     </td>
     <td align="center" width="120" height="120" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 15px;">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF_di9L8kawXiANw4xhc--TYowhstaXU6YXKKQfvSQyw&s=10" height="40" alt="Python" /><br/>
+      <img src="PYTHON.gif" height="40" alt="Python" /><br/>
       <span style="color: #ffffff; font-family: sans-serif; font-size: 13px; font-weight: bold; display: block; margin-top: 12px;">Python</span>
     </td>
     <td align="center" width="120" height="120" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 15px;">
@@ -362,11 +362,11 @@ Developed a hybrid deep learning model (CNN + TF-IDF) achieving **93.17% accurac
       <span style="color: #ffffff; font-family: sans-serif; font-size: 13px; font-weight: bold; display: block; margin-top: 12px;">Figma</span>
     </td>
     <td align="center" width="120" height="120" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 15px;">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP-xj5sbiPn90XayX8rST2qW47_cM85esQPv7U8Jl--w&s=10" height="40" alt="VS Code" /><br/>
+      <img src="VSCODE.gif" height="40" alt="VS Code" /><br/>
       <span style="color: #ffffff; font-family: sans-serif; font-size: 13px; font-weight: bold; display: block; margin-top: 12px;">VS Code</span>
     </td>
     <td align="center" width="120" height="120" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 15px;">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZkYjE2cKIOYS8offeZbdiAuglzheDwEBus6lRx3nilQ&s=10" height="40" alt="Git Bash" /><br/>
+      <img src="GITBASH.gif" height="40" alt="Git Bash" /><br/>
       <span style="color: #ffffff; font-family: sans-serif; font-size: 13px; font-weight: bold; display: block; margin-top: 12px;">Git Bash</span>
     </td>
     <td align="center" width="120" height="120" bgcolor="#0d1117" style="border: 2px solid #3b82f6; border-radius: 8px; padding: 15px;">
