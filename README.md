@@ -70,7 +70,7 @@
 > A frontend-driven study tool for question banks, interactive coding, and community engagement.
 
 🔗 **Repository:**  
-📁 [`github.com/DAiyan582/DSAhub – DSA Practice Platform`](https://github.com/DAiyan582/MY-Prrvious-Projects/blob/main/DSA-HUB.zip) (code execusion)<br>
+📁 [`github.com/DAiyan582/DSAhub – DSA Practice Platform`](https://github.com/DAiyan582/MY-Prrvious-Projects/tree/main/UPDATE-06) (code execusion)<br>
 
 🏆 **Production-ready, fully client-side web app.**
 
