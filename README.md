@@ -72,7 +72,7 @@
 🔗 **Repository:**  
 📁 [`github.com/DAiyan582/DSAhub – DSA Practice Platform`](https://github.com/DAiyan582/MY-Prrvious-Projects/tree/main/CS-Project) (code execusion)<br>
 
-📁 [`github.com/DAiyan582/DSAhub – DSA Practice Platform`](https://github.com/DAiyan582/MY-Prrvious-Projects/tree/main/SMS%20PHISHING%20DETECTION-DAIYAN%26MARIA/SMS%20PHISHING%20DETECTION-DAIYAN%26MARIA) (code execusion)<br>
+📁 [`github.com/DAiyan582/DSAhub – DSA Practice Platform with the help of my teammate and my faculty`](https://github.com/DAiyan582/MY-Prrvious-Projects/tree/main/SMS%20PHISHING%20DETECTION-DAIYAN%26MARIA/SMS%20PHISHING%20DETECTION-DAIYAN%26MARIA) (code execusion)<br>
 
 🏆 **Production-ready, fully client-side web app.**
 
