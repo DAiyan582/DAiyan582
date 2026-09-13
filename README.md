@@ -70,7 +70,9 @@
 > A frontend-driven study tool for question banks, interactive coding, and community engagement.
 
 🔗 **Repository:**  
-📁 [`github.com/DAiyan582/DSAhub – DSA Practice Platform`](https://github.com/DAiyan582/MY-Prrvious-Projects/tree/main/UPDATE-06) (code execusion)<br>
+📁 [`github.com/DAiyan582/DSAhub – DSA Practice Platform`](https://github.com/DAiyan582/MY-Prrvious-Projects/tree/main/CS-Project) (code execusion)<br>
+
+📁 [`github.com/DAiyan582/DSAhub – DSA Practice Platform`](https://github.com/DAiyan582/MY-Prrvious-Projects/tree/main/SMS%20PHISHING%20DETECTION-DAIYAN%26MARIA/SMS%20PHISHING%20DETECTION-DAIYAN%26MARIA) (code execusion)<br>
 
 🏆 **Production-ready, fully client-side web app.**
 
