@@ -112,7 +112,7 @@
 > A console-driven cricket simulator focused on realistic match logic, dynamic batting order, probability-based event generation, live score tracking, and automated scorecard export.
 
 🔗 **Repository:**  
-📁 [`github.com/DAiyan582/Cricket Match Simulator (C)`](https://github.com/DAiyan582/MY-Prrvious-Projects/blob/main/PROJECT.c) (code execusion)
+📁 [`github.com/DAiyan582/Cricket Match Simulator (C)`](https://github.com/DAiyan582/MY-Prrvious-Projects/tree/main/CS-Project) (code execusion)
 
 
 ### 🏆 Award
