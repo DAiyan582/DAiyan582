@@ -260,25 +260,48 @@ and IEEE-standard SRS documentation in the repository repository assets.
 ---
 
 ### 🏠 Tenant Management System (TMS) – Integrated Property & Rental Platform
-> **A centralized property and rental platform streamlining tenant onboarding, automated rent tracking, maintenance ticketing, and financial dashboards, built with Agile (Scrum) methodologies.**
+> **A centralized property and rental management platform streamlining tenant onboarding, automated rent tracking, maintenance ticketing, and financial dashboards, engineered using Agile (Scrum) methodologies.**
 
 [![Documentation](https://img.shields.io/badge/Documentation-SRS%20%26%20Report-181717?style=flat-square&logo=github)](https://github.com/DAiyan582/MY-Prrvious-Projects/blob/main/TMS_REPORT_FOR_PMG.pdf)
 [![Award](https://img.shields.io/badge/Award-Top%20Academic%20Project-ffd700?style=flat-square&logo=award&logoColor=black)]()
 [![Methodology](https://img.shields.io/badge/Methodology-Agile%20(Scrum)-0052CC?style=flat-square&logo=jira&logoColor=white)]()
+[![Framework](https://img.shields.io/badge/SDLC-CMMI%20%26%20IEEE%20Standard-4338ca?style=flat-square)]()
+
+#### 🏆 Academic Recognition
+- **Top Academic Project – Project Management & Software Engineering:** Commended for exemplary Software Engineering planning, rigorous requirements specification (SRS), quantitative estimation models (COCOMO II, FPA), and end-to-end Risk Management.
 
 #### 🚀 Key Highlights & What I Built
-- **Tenant & Property Lifecycle Management:** Engineered structured workflows for digital rental applications, background screening, electronic lease agreements, and centralized tenant profiles.
-- **Automated Financial Tracking & Alerts:** Outlined automated rent reminder schedules, real-time payment tracking, fee reconciliation, and financial health reporting for property managers.
-- **Maintenance Request Ticketing Pipeline:** Designed end-to-end service ticket lifecycles—tenant creation, status notifications, contractor assignment, and historical repair logs.
-- **Unified Stakeholder Communication:** Created specifications for in-app announcements, lease dispute resolution, and document archives.
-- **Comprehensive Project Management Engineering:** Formulated complete project planning artifacts including Work Breakdown Structure (WBS), Wideband Delphi estimations, COCOMO II cost calculations, Function Point Analysis (FPA), and RMMM risk mitigation matrices.
+- **End-to-End Tenant & Lease Lifecycle:** Engineered comprehensive workflows for digital tenant onboarding, automated background checks, electronic lease contract generation, and centralized tenant profile management.
+- **Automated Financial Tracking & Invoicing:** Designed an automated payment tracking engine featuring scheduled rent reminders, digital ledger balancing, late-fee calculation, and owner payout reporting.
+- **Maintenance Request Ticketing Pipeline:** Modeled an issue ticketing system from tenant issue submission, severity assessment, contractor assignment, and real-time status notifications to resolution sign-off.
+- **Unified Stakeholder Communication & Vault:** Outlined real-time messaging protocols, community broadcast boards, and secure cloud document archiving for legal leases and property policies.
+- **Single-Pane Management Dashboards:** Created multi-role analytical dashboards displaying real-time occupancy rates, rental collection efficiency, overdue account tracking, and net operating income.
+- **Quantitative Software Estimation & Risk Governance:** Authored full project management documentation featuring Work Breakdown Structure (WBS), Wideband Delphi consensus estimation, COCOMO II cost forecasting, Function Point Analysis (FPA), and an RMMM (Risk Mitigation, Monitoring, and Management) matrix.
 
 <details>
 <summary>🛠️ <b>Project Management & Engineering Stack</b></summary>
 
-- **Methodologies:** Agile (Scrum), Sprint Planning, SDLC Lifecycle Management
-- **Estimation Models:** COCOMO II, Function Point Analysis (FPA), Wideband Delphi
-- **Tools & Tracking:** Jira, WBS & Gantt Charting, RMMM Risk Matrices, CMMI Quality Guidelines
+- **Methodologies:** Agile (Scrum), Sprint Planning & Velocity Tracking, SDLC Lifecycle
+- **Estimation Models:** COCOMO II (Constructive Cost Model), Function Point Analysis (FPA), Wideband Delphi
+- **Management & Design Tools:** Jira, Confluence, Gantt Charting, Work Breakdown Structure (WBS)
+- **Quality & Standards:** IEEE 830 SRS Standard, CMMI Process Guidelines, RMMM Risk Planning
+</details>
+
+<details>
+<summary>📊 <b>Project Estimation & Risk Metrics</b></summary>
+
+- **Quantitative Cost & Effort Modeling:** Detailed effort (person-months) and schedule duration calculations using COCOMO II and Function Point Analysis (FPA).
+- **Proactive Risk Mitigation:** Prioritized matrix (Probability × Impact) addressing schedule slippage, scope creep, and payment gateway integration risks with mitigation strategies.
+</details>
+
+<details>
+<summary>▶️ <b>Project Assets & Documentation Access</b></summary>
+
+```text
+Repository & Report: https://github.com/DAiyan582/MY-Prrvious-Projects/blob/main/TMS_REPORT_FOR_PMG.pdf
+Review the complete project management report including IEEE SRS specifications,
+WBS hierarchies, COCOMO calculation spreadsheets, and system architecture blueprints.
+```
 </details>
 
 ---
@@ -343,6 +366,101 @@ pip install tensorflow flask scikit-learn pandas numpy matplotlib
 python app.py
 
 # 4. Open in browser: http://127.0.0.1:5000
+```
+</details>
+
+---
+
+### 💼 Employee Management RESTful API & Payroll Engine
+> **A zero-dependency Python RESTful microservice featuring dual-layer authentication (API Key & HTTP Basic Auth), complete employee CRUD lifecycles, automated departmental payroll computations, and persistent JSON datastore storage.**
+
+[![Repository](https://img.shields.io/badge/GitHub-employee--management--api-181717?style=flat-square&logo=github)](https://github.com/DAiyan582/employee-management-api)
+[![Language](https://img.shields.io/badge/Language-Python%203.x-3776AB?style=flat-square&logo=python&logoColor=white)]()
+[![Security](https://img.shields.io/badge/Security-API%20Key%20%26%20Basic%20Auth-059669?style=flat-square)]()
+[![Architecture](https://img.shields.io/badge/Architecture-Zero--Dependency%20REST-6366f1?style=flat-square)]()
+
+#### 🚀 Key Highlights & What I Built
+- **Zero-Dependency Native Python Server:** Architected entirely on Python's built-in standard library (`http.server`, `urllib.parse`, `json`), delivering a lightweight, high-performance RESTful microservice without third-party framework overhead.
+- **Dual-Layer Authentication Security:** Engineered request authentication supporting header-based `X-API-Key` verification and Base64-decoded HTTP Basic Authentication (`Authorization: Basic ...`) with strict 401 unauthorized rejection and security logging.
+- **Complete Employee Lifecycle CRUD Engine:** Implemented full REST endpoints under `/api/employees` for adding staff members, retrieving records by ID, querying by department and designation, in-place record updates, and deletion.
+- **Automated Departmental Payroll Engine:** Built a dedicated business logic module (`Salary.py`) computing gross salaries, statutory tax withholdings, performance bonuses, net disbursements, and aggregate departmental wage metrics.
+- **ACID-Compliant JSON Persistence Layer:** Designed a lightweight JSON database engine (`DATABASE.json`) with safe atomic write handlers, schema validation, and exception guards to prevent data corruption.
+- **Automated cURL Testing & Verification Suite:** Validated all endpoints with comprehensive curl test scripts testing HTTP status codes (200 OK, 201 Created, 400 Bad Request, 401 Unauthorized, 404 Not Found, 500 Internal Error).
+
+<details>
+<summary>🛠️ <b>Tech Stack & Architecture</b></summary>
+
+- **Language & Runtime:** Python 3.x
+- **Core Modules:** `http.server`, `urllib.parse`, `json`, `base64`, `os`, `sys`
+- **Architecture:** Microservice RESTful API, Route Dispatcher Pattern, Stateless Request Pipeline
+- **Security & Data:** API Key Verification, HTTP Basic Auth, JSON Document Datastore
+</details>
+
+<details>
+<summary>▶️ <b>How to Run & Test with cURL</b></summary>
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/DAiyan582/employee-management-api.git
+cd employee-management-api
+
+# 2. Start the native Python API server (no external dependencies needed!)
+python SERVER.py
+# Server running at http://localhost:5000
+
+# 3. Test employee retrieval with API Key
+curl http://localhost:5000/api/employees \
+  -H "X-API-Key: abcd1234"
+
+# 4. Calculate departmental payroll
+curl http://localhost:5000/api/salary \
+  -H "X-API-Key: abcd1234"
+```
+</details>
+
+---
+
+### 🎓 Academic Course Enrollment & RESTful API Boilerplate
+> **A modular, production-ready RESTful CRUD API boilerplate designed for academic student enrollments and course registration, featuring API Key security, dynamic query filtering, and a strict feature-branch Git workflow.**
+
+[![Repository](https://img.shields.io/badge/GitHub-MY--practice-181717?style=flat-square&logo=github)](https://github.com/DAiyan582/MY-practice)
+[![Backend](https://img.shields.io/badge/Backend-Node.js%20%2F%20Python-339933?style=flat-square&logo=nodedotjs&logoColor=white)]()
+[![Security](https://img.shields.io/badge/Auth-X--API--Key-059669?style=flat-square)]()
+[![Workflow](https://img.shields.io/badge/Git-Branch--Per--Feature-F05032?style=flat-square&logo=git&logoColor=white)]()
+
+#### 🚀 Key Highlights & What I Built
+- **Pluggable Resource-Oriented Architecture:** Designed a modular CRUD API template enabling rapid addition of new academic resources (enrollments, courses, students, course prerequisites) with unified handler logic.
+- **Parametric Query Filtering & Validation:** Built intelligent search routing allowing instant filtering of student registrations by `courseCode`, `semester`, and enrollment `status` (`enrolled`, `waitlisted`, `dropped`).
+- **API Key Guard Middleware:** Implemented lightweight security middleware validating incoming `X-API-Key` headers on all protected endpoints, returning standardized RFC-compliant error payloads on missing or invalid keys.
+- **Strict HTTP Status Code Adherence:** Strictly standardizes responses across 200 (OK), 201 (Created), 400 (Validation / Missing Required Fields), 401 (Unauthorized), and 404 (Entity Not Found).
+- **Branch-Per-Feature Git Engineering Workflow:** Developed under disciplined version control protocols with isolated feature branches (`feature/retrieve`, `feature/save`, `feature/auth`) and structured merge strategies.
+
+<details>
+<summary>🛠️ <b>Tech Stack & Concepts</b></summary>
+
+- **Environments:** Node.js / Express · Python REST
+- **Protocols & Design:** RESTful Architecture, HTTP Middleware Pattern, CRUD Operations
+- **Data Handling:** JSON Datastore, Schema Input Validation, Parametric Query Parsing
+- **Engineering Practice:** Git Flow (Branch-per-feature, pull-request review simulation)
+</details>
+
+<details>
+<summary>▶️ <b>Quick Start & API Testing</b></summary>
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/DAiyan582/MY-practice.git
+cd MY-practice
+
+# 2. Run the server
+npm install && npm start
+# Server running at http://localhost:5000
+
+# 3. Test student enrollment creation with API Key
+curl -X POST http://localhost:5000/api/enrollments \
+  -H "X-API-Key: secret123" \
+  -H "Content-Type: application/json" \
+  -d '{"studentName":"Sadia Islam","courseCode":"CSE4165","semester":"Fall2026"}'
 ```
 </details>
 
