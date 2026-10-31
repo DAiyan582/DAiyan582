@@ -532,32 +532,42 @@ curl -X POST http://localhost:5000/api/enrollments \
 </div>
 
 <div align="left">
-
-## 🗃️ GitHub Activity
-
+  <h2>🗃️ GitHub Activity & Statistics</h2>
 </div>
+
 <p align="center">
   <img 
-    src="https://github-stats-extended.vercel.app/api?username=DAiyan582&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=3b82f6" 
+    src="https://github-stats-extended.vercel.app/api?username=DAiyan582&show_icons=true&bg_color=0d1117&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&border_color=30363d" 
     height="195" 
     alt="DAiyan582's GitHub Stats" 
   />
-  <span>&nbsp;&nbsp;&nbsp;</span>
+  &nbsp;&nbsp;
   <img 
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=DAiyan582&bg_color=ffffff&title_color=000000&text_color=000000" 
-  height="195" 
-  alt="DAiyan582's Most Used Languages" 
-/>
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=DAiyan582&bg_color=0d1117&title_color=3b82f6&text_color=ffffff&border_color=30363d" 
+    height="195" 
+    alt="DAiyan582's Most Used Languages" 
+  />
 </p>
+
+<p align="center">
+  <!-- GitHub Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com/?user=DAiyan582&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=3B82F6&fire=3B82F6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3B82F6&sideLabels=3B82F6&dates=8B949E" 
+    alt="DAiyan582's GitHub Streak" 
+  />
+</p>
+
 <p align="center">
   <!-- Live Contribution Line Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DAiyan582&bg_color=0d1117&line=22c55e&point=22c55e&color=ffffff" width="100%" alt="Contribution Graph" />
+  <img 
+    src="https://activity-graph.vercel.app/graph?username=DAiyan582&bg_color=0d1117&color=ffffff&line=3b82f6&point=22c55e&area=true&hide_border=true" 
+    width="100%" 
+    alt="DAiyan582's Contribution Graph" 
+  />
 </p>
 
 <div align="left">
-
-## 🤝 Connect with me 
-
+  <h2>🤝 Connect with me</h2>
 </div>
 
 <p align="center">
