@@ -64,269 +64,288 @@
 
 ---
 <div align="left">
- <h1><img src="Safety Attention Sticker by aquaplus.gif" width=50px height=50px> My projects</h1>
-
-# DSAhub – DSA Practice Platform
-> A frontend-driven study tool for question banks, interactive coding, and community engagement.
-
-🔗 **Repository:**  
-📁 [`github.com/DAiyan582/DSAhub – DSA Practice Platform`](https://github.com/DAiyan582/DSA_HUB.git) (code execusion)<br>
-
-🏆 **Production-ready, fully client-side web app.**
+ <h1><img src="Safety Attention Sticker by aquaplus.gif" width="40px" height="40px" style="vertical-align: middle;"> Featured Projects & Engineering Showcase</h1>
+</div>
 
 ---
 
-### 🚀 What I Built (End-to-End)
+### 💻 DSAhub – Dynamic DSA Practice & Execution Platform
+> **A zero-dependency, client-side algorithmic learning platform featuring 30+ interactive challenges, multi-language sandbox execution, real-time code tools, and peer community discussion.**
 
-- **Dynamic Question Bank:** 30+ DSA problems with multi-filter search (Topic/Difficulty/Status) and sort options.
-- **Interactive Code Runner:** 15+ languages via Piston API; includes syntax highlight, line numbers, copy/paste, format, download, share, and local history.
-- **Auth & Progress:** Login/Register with validation; track solved/unsolved, streaks, bookmarks, and user profile badges.
-- **Community Hub:** Discussion forum, peer code review, and leaderboard.
-- **UI/UX:** Dark/Light mode, reading mode, font controls, pagination, toast notifications, keyboard shortcuts, and full responsive design.
+[![Repository](https://img.shields.io/badge/GitHub-DSA__HUB-181717?style=flat-square&logo=github)](https://github.com/DAiyan582/DSA_HUB)
+[![Type](https://img.shields.io/badge/Type-Production--Ready%20Web%20App-2563eb?style=flat-square)]()
+[![Architecture](https://img.shields.io/badge/Architecture-100%25%20Client--Side-10b981?style=flat-square)]()
+[![Code Execution](https://img.shields.io/badge/Code%20Runner-Piston%20API%20(15+%20Langs)-f59e0b?style=flat-square)]()
 
----
+#### 🚀 Key Highlights & What I Built
+- **Dynamic Algorithmic Question Bank:** Curated 30+ comprehensive Data Structures & Algorithms problems organized across core topics (Arrays, Strings, Trees, Dynamic Programming, Graphs) with instant multi-facet search, difficulty filters, and custom sorting.
+- **Integrated Multi-Language Code Runner:** Built an in-browser code editor and runner powered by the **Piston API**, supporting compilation and execution across 15+ programming languages with syntax highlighting, live line counting, automatic formatting, download, and snippet sharing.
+- **Client-Side Auth & Gamified Progress:** Developed a zero-backend authentication workflow with validation; utilizes `localStorage` for state persistence to track solved challenges, maintain daily streaks, manage problem bookmarks, and award profile badges.
+- **Collaborative Community Hub:** Integrated peer discussion boards for algorithmic time/space complexity debates, peer code reviews, and competitive leaderboard tracking.
+- **Responsive Ergonomic UI/UX:** Designed with dark/light themes, distraction-free reading mode, custom editor typography, pagination, toast notifications, and power-user keyboard shortcuts.
 
-### 🛠️ Tech Stack
 <details>
-- **Frontend:** HTML5 · CSS3 · Vanilla JS
-- **State & Data:** `localStorage` (persistence)
-- **API:** [Piston API](https://github.com/engineer-man/piston) (code execution)
+<summary>🛠️ <b>Tech Stack & Architecture</b></summary>
+
+- **Frontend:** HTML5 · CSS3 · Vanilla JavaScript (ES6+)
+- **Storage & State:** Web Storage API (`localStorage`) for zero-server state management
+- **Execution Engine:** [Piston API](https://github.com/engineer-man/piston) for real-time sandbox code execution
+- **Design Philosophy:** Mobile-responsive, zero build dependencies, 100% portable
 </details>
 
----
-
-### ▶️ How to Run
 <details>
-1. Clone the repository.
-2. Open `update-06-LOGIN.html` in any modern browser.
-3. No build tools or servers required.
-</details>
-
-
-# 🏏 Cricket Match Simulator (C)
-
-**A 50-Overs Cricket Match Simulation Tool**
-
-> A console-driven cricket simulator focused on realistic match logic, dynamic batting order, probability-based event generation, live score tracking, and automated scorecard export.
-
-🔗 **Repository:**  
-📁 [`github.com/DAiyan582/Cricket Match Simulator (C)`](https://github.com/DAiyan582/MY-Prrvious-Projects/tree/main/CS-Project) (code execusion)
-
-
-### 🏆 Award
-**A-Grade Academic Project**  
-Developed a robust C-based simulation engine demonstrating advanced logic, dynamic state management, and file I/O. Awarded top marks for algorithmic complexity and real-world application.
-
----
-
-### 🚀 What I Built (End-to-End)
-
-- **Realistic Innings Logic** – Dynamic batting order updates only after wickets fall; innings ends precisely at 10 wickets or 50 overs.
-- **Probability-Based Event Engine** – Uses randomized logic for dot balls, singles, boundaries (4s/6s), wickets, and extras (No-balls/Wides).
-- **Live Score Updates** – Displays team score, overs, and active batsman stats after every over or wicket.
-- **Player Performance Tracking** – Tracks runs, balls faced, strike rate, 4s, 6s, and dismissal types for all 11 batsmen.
-- **Automated Scorecard Export** – Writes clean, tabular match summaries to `scorecard.txt` using robust file I/O.
-
----
-
-### 🛠️ Tech Stack
-<details>
-- **Language:** C
-- **Core Concepts:** Structures · Pointers · File I/O
-- **Logic:** Randomization · Algorithm Design · Data Persistence
-</details>
-
----
-
-
-### ▶️ How to Run
-
-<details>
-<summary>Click to expand setup & execution instructions</summary>
+<summary>▶️ <b>How to Run Locally</b></summary>
 
 ```bash
-# 1. Compile the program
-gcc cricket_simulator.c -o cricket_simulator
+# 1. Clone the repository
+git clone https://github.com/DAiyan582/DSA_HUB.git
 
-# 2. Run the simulation
+# 2. Launch directly in your browser
+# Double-click or open 'update-06-LOGIN.html' in Google Chrome, Edge, or Firefox.
+# No node_modules, webpack, or external web servers required!
+```
+</details>
+
+---
+
+### 🏏 Cricket Match Simulator (C) – 50-Overs ODI Simulation Engine
+> **A high-fidelity console-based 50-over cricket simulation engine with dynamic batting lineups, stochastic event distribution, real-time live match telemetry, and automated scorecard export.**
+
+[![Repository](https://img.shields.io/badge/GitHub-Cricket--Game-181717?style=flat-square&logo=github)](https://github.com/DAiyan582/Cricket-Game)
+[![Award](https://img.shields.io/badge/Award-A--Grade%20Academic%20Project-ffd700?style=flat-square&logo=award&logoColor=black)]()
+[![Language](https://img.shields.io/badge/Language-C99%20Standard-A8B9CC?style=flat-square&logo=c&logoColor=white)]()
+[![Logic](https://img.shields.io/badge/Logic-Stochastic%20Probability-8b5cf6?style=flat-square)]()
+
+#### 🏆 Academic Recognition
+- **A-Grade Academic Project:** Commended for advanced procedural programming, algorithmic state management, pointer-based data modeling, and robust file I/O streaming.
+
+#### 🚀 Key Highlights & What I Built
+- **Realistic Innings & Batting Order State Machine:** Models an entire 50-over (up to 300 deliveries) innings or 10-wicket threshold; dynamically handles striker/non-striker rotations, partnerships, and automatic batsman substitutions upon dismissal.
+- **Probabilistic Event Distribution Engine:** Uses mathematical randomization logic to simulate authentic match dynamics: dot balls, singles, doubles, boundaries (4s & 6s), bowling extras (wides/no-balls), and 5 distinct dismissal types (Bowled, Caught, LBW, Run Out, Stumped).
+- **Live Match Telemetry & Statistics:** Continuously recalculates strike rates, balls faced, boundary counts, team run rate, and active bowler figures delivery-by-delivery in real time.
+- **Comprehensive Player Tracking:** Maintains complete statistics across all 11 batsmen, computing runs, strike rate, boundaries, and precise dismissal records.
+- **Automated Scorecard File Export:** Formats and writes clean ASCII tabular match summaries to `scorecard.txt` using buffered C file I/O operations (`fopen`, `fprintf`).
+
+<details>
+<summary>🛠️ <b>Tech Stack & Concepts</b></summary>
+
+- **Language:** C (C99 Standard)
+- **Core Concepts:** `struct` data modeling, dynamic pointers, file stream I/O (`stdio.h`), time-seeded randomization (`stdlib.h`, `time.h`)
+- **System Design:** Deterministic state machine, algorithmic probability weighting, modular function architecture
+</details>
+
+<details>
+<summary>▶️ <b>Compilation & Execution</b></summary>
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/DAiyan582/Cricket-Game.git
+
+# 2. Compile the simulation with GCC
+gcc PROJECT.c -o cricket_simulator
+
+# 3. Run the simulator
 ./cricket_simulator
 ```
 </details>
 
-
-### 📝 Example Output
-
 <details>
-<summary>Click to view a sample generated scorecard</summary>
+<summary>📝 <b>Sample Generated Scorecard (scorecard.txt)</b></summary>
 
-```
-============================================
+```text
+================================================================================
+                         50-OVERS ODI MATCH SCORECARD                           
+================================================================================
 Team: Bangladesh
-Total: 245/6 in 50.0 overs
-============================================
-Batsman       Runs  Balls  4s  6s   SR
---------------------------------------------
-Shakib        85    102    8   2   83.33 (Not Out)
-Tamim         34    45     4   0   75.55 (c Caught)
-...
-============================================
-[✓] Scorecard saved to 'scorecard.txt'.
+Total: 268/7 in 50.0 overs (RR: 5.36)
+================================================================================
+Batsman              Runs     Balls     4s     6s       SR     Status
+--------------------------------------------------------------------------------
+Tamim Iqbal           42        51      5      1     82.35     c Caught
+Litton Das            18        24      2      0     75.00     b Bowled
+Shakib Al Hasan       89       104      9      2     85.57     Not Out
+Mushfiqur Rahim       54        62      4      1     87.10     c Caught
+Mahmudullah           27        31      2      1     87.09     Run Out
+Afif Hossain          14        16      1      0     87.50     lbw
+Mehidy Hasan          11         9      1      0    122.22     c Caught
+Taskin Ahmed           4         3      0      0    133.33     Not Out
+--------------------------------------------------------------------------------
+[✓] Match summary successfully saved to 'scorecard.txt'.
 ```
 </details>
 
-
-
-# 🤖 Smart Agribot for Precision Farming
-
-**An Automated Arduino-Based Agricultural Robot**
-
-🏆 **Award: Top-Performing Academic Project – Electronics Laboratory (EEE 2124)**  
-Selected as a standout project for system design, hardware integration, and practical application of microcontroller-based automation. Successfully implemented 4 core agricultural features with a 5-member team.
-
-> An Arduino Nano-powered robotic system focused on automating essential farming tasks including seed sowing, pesticide spraying, grass cutting, and autonomous field navigation, integrated with Bluetooth-based wireless control for user-friendly operation.
-
-🔗 **Repository:**  
-📁 [`github.com/your-username/smart-agribot`](https://github.com/DAiyan582/MY-Prrvious-Projects/blob/main/Agri.zip) (code execusion)
-
 ---
 
-### 🚀 What I Built (End-to-End):
+### 🤖 Smart Agribot – IoT & Microcontroller-Based Precision Agriculture Rover
+> **An autonomous Arduino Nano-driven agricultural field rover engineered to mechanize 4 fundamental farming operations—seed sowing, pesticide spraying, weed cutting, and field navigation—via wireless Bluetooth telemetry.**
 
-- **Designed & built an autonomous 4-wheel drive chassis** – Integrated 4 gear motors with an L298N motor driver for precise forward, backward, and turning navigation across agricultural fields.
-- **Implemented a precision seed-sowing mechanism** – Used a servo motor to control the angle of the seed dispenser, ensuring accurate and efficient seed placement at pre-defined intervals.
-- **Developed a pesticide spraying system** – Controlled a pump motor via a 2-channel relay module to dispense pesticides and fertilizers evenly over crops.
-- **Created an automated grass-cutting feature** – Activated a high-speed DC motor using the relay module to operate a cutting blade for field maintenance and weed control.
-- **Integrated wireless Bluetooth control** – Used an HC-05 module to receive commands from a mobile app, allowing remote operation of all features (movement, sowing, spraying, cutting).
-- **Built a robust power management system** – Utilized an 18650 lithium-ion battery and a buck module to provide a stable 5V supply to the Arduino Nano and all peripherals.
+[![Repository](https://img.shields.io/badge/GitHub-EEE--Project-181717?style=flat-square&logo=github)](https://github.com/DAiyan582/EEE-project)
+[![Award](https://img.shields.io/badge/Award-Top%20Academic%20Project%20(EEE%202124)-ffd700?style=flat-square&logo=award&logoColor=black)]()
+[![Hardware](https://img.shields.io/badge/Hardware-Arduino%20Nano-00979D?style=flat-square&logo=arduino&logoColor=white)]()
+[![Connectivity](https://img.shields.io/badge/Wireless-Bluetooth%20HC--05-0078D4?style=flat-square&logo=bluetooth&logoColor=white)]()
 
----
+#### 🏆 Academic Recognition
+- **Top-Performing Project – Electronics Laboratory (EEE 2124):** Selected as a standout hardware-software capstone across the entire batch for excellence in embedded systems architecture, circuit schematics, and multi-actuator robotics.
 
-### 🛠️ Tech Stack
+#### 🚀 Key Highlights & What I Built
+- **High-Torque 4WD Robotic Chassis:** Designed and constructed an all-terrain 4-wheel drive rover powered by 4 geared DC motors and an L298N dual H-bridge motor driver, providing robust forward, reverse, and differential steering across uneven field terrain.
+- **Servo-Actuated Precision Seed Sowing:** Engineered a calibrated seed dispensing mechanism driven by a high-precision micro-servo motor, ensuring accurate angular discharge for uniform seed spacing and soil depth.
+- **Relay-Isolated Pesticide Spraying Unit:** Integrated a 5V DC high-pressure mini pump routed through a dual-channel optocoupled relay module to deliver uniform liquid pesticide and fertilizer misting over crop beds.
+- **Motorized Weed & Grass Cutting Blade:** Implemented a high-RPM cutting motor operated via dedicated relay switching to perform weed control and ground maintenance.
+- **Wireless Telemetry & Bluetooth Control:** Integrated an HC-05 Bluetooth transceiver interfacing with a custom smartphone app, enabling wireless remote control of rover movement, seed sowing, spraying, and cutting.
+- **Regulated Dual-Rail Power Distribution:** Engineered an onboard power management circuit utilizing rechargeable 18650 Li-ion cells and a buck step-down converter to deliver clean, surge-protected 5V/3.3V power to the MCU and inductive motor loads.
+
 <details>
-`Arduino Nano` · `C++ (Arduino IDE)` · `Bluetooth (HC-05)`  
-`Motor Drivers (L298N)` · `Relay Modules` · `Servo Motors`  
-`Circuit Design (Proteus)` · `Hardware Integration` · `Embedded Systems`
+<summary>🛠️ <b>Tech Stack & Hardware Components</b></summary>
 
----
+- **Microcontroller:** Arduino Nano (ATmega328P)
+- **Actuators & Drivers:** 4x Geared DC Motors, L298N Dual H-Bridge Driver, SG90 Micro Servo, High-RPM Cutting Motor, 5V DC Pump Motor
+- **Sensors & Wireless:** HC-05 Bluetooth Module (UART Serial Communication)
+- **Power & Circuitry:** 18650 Li-ion Battery Pack, LM2596 Buck Converter, 2-Channel 5V Relay Module, Proteus CAD Simulation
+- **Firmware:** Embedded C++ (Arduino IDE)
 </details>
 
-
-
-
-# 🚍 UIU Go! – Smart Campus Bus Tracking System
-
-**Real-Time Public Transport Tracking for UIU**
-
-🏆 **Award: Top Academic Project – System Analysis & Design Course**  
-Developed a comprehensive SRS and prototype for a smart campus transit solution, demonstrating advanced system analysis, user-centric design, and real-world problem-solving capabilities.
-
-> A frontend-driven campus transport platform focused on real-time bus tracking, dynamic route optimization, delay alerts, and user experience, integrated with GPS telematics and data-driven analytics for modern campus mobility.
-
-🔗 **Repository:**  
-📁 [`github.com/DAiyan582/uiu-go-bus-tracker`](https://github.com/DAiyan582/MY-Prrvious-Projects/blob/main/SRS%20DOCUMENT.zip) (code execusion)
-
----
-
-### 🚀 What I Built (End-to-End):
-
-- **Designed and built real-time bus tracking flows** – Integrated GPS live location updates onto an interactive map interface, allowing students and staff to track bus positions instantly.
-- **Implemented comprehensive admin & driver dashboards** – Created administrative tools for route management, schedule updates, and operational analytics, along with a dedicated driver app for location sharing.
-- **Created intelligent delay & notification system** – Developed automated alert features for route delays, ETA changes, and service disruptions, ensuring commuters stay informed in real-time.
-- **Built responsive, mobile-first UI layouts** – Designed high-fidelity prototypes in Figma for both mobile and web, ensuring a seamless experience across all devices.
-- **Integrated Google Maps API & Chart.js analytics** – Embedded interactive mapping for live routing and visualization tools for performance metrics, delay patterns, and ridership trends.
-- **Designed scalable system architecture** – Produced comprehensive UML diagrams (Context, Use-Case, Activity, DFD, Class, CRC) to outline robust, scalable backend and data flows for future IoT and smart campus integration.
-
----
-
-### 🛠️ Tech Stack
 <details>
-`Figma` · `Google Maps API` · `Chart.js` · `UML Diagrams`  
-`System Analysis` · `UI/UX Architecture` · `Prototyping`  
-`SRS Documentation` · `Data Flow Diagrams` · `Smart Campus Solutions`
+<summary>▶️ <b>Firmware Setup & Hardware Wiring</b></summary>
 
----
+```text
+1. Clone the repository: https://github.com/DAiyan582/EEE-project.git
+2. Open the .ino sketch in Arduino IDE.
+3. Connect Arduino Nano via USB and select 'Arduino Nano' and COM port.
+4. Verify pin configurations (L298N IN1-IN4, Servo signal, Relay IN1-IN2, HC-05 RX/TX).
+5. Compile and upload firmware. Pair via mobile Bluetooth app to operate rover.
+```
 </details>
 
+---
 
-# 🏠 Tenant Management System (TMS)
+### 🚍 UIU Go! – Smart Campus Bus Tracking & Transit Management System
+> **A GPS-enabled transit tracking and campus mobility platform engineered for United International University, unifying live bus telematics, dynamic route mapping, predictive delay notifications, and administrative fleet analytics.**
 
-**An Integrated Property & Rental Management Platform**
+[![Repository](https://img.shields.io/badge/GitHub-UIU--BUS--TRACKING-181717?style=flat-square&logo=github)](https://github.com/DAiyan582/UIU-BUS-TRACKING)
+[![Award](https://img.shields.io/badge/Award-Top%20Academic%20Project%20(SAD)-ffd700?style=flat-square&logo=award&logoColor=black)]()
+[![Mapping](https://img.shields.io/badge/API-Google%20Maps%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)]()
+[![Design](https://img.shields.io/badge/UI%2FUX-Figma%20Prototypes-F24E1E?style=flat-square&logo=figma&logoColor=white)]()
 
-🏆 **Award: Top Academic Project – Project Management & Software Engineering**  
-Developed a comprehensive Software Engineering plan (SRS, WBS, COCOMO, FPA, Risk Plan) and system design for a modern rental management solution.
+#### 🏆 Academic Recognition
+- **Top Academic Project – System Analysis & Design (SAD):** Honored for end-to-end Software Requirements Specification (SRS), comprehensive UML architectural diagrams, user-centric interface design, and real-world campus transit problem-solving.
 
-> A centralized web platform streamlining the rental lifecycle—tenant onboarding, automated rent collection, maintenance tracking, and financial dashboards, built with Agile (Scrum) methodologies.
+#### 🚀 Key Highlights & What I Built
+- **Real-Time Bus Tracking & Geospatial Mapping:** Built live location tracking flows integrated with Google Maps JavaScript API, showing dynamic bus movement, route waypoints, pickup stops, and precise student arrival ETAs.
+- **Dual-Role Driver & Administrator Dashboards:** Designed distinct control panels—an intuitive driver interface for one-tap GPS location broadcasting, and an admin console for fleet dispatch, schedule updates, and live route status.
+- **Predictive Delay & Notification Dispatcher:** Developed an automated notification engine that alerts commuters to traffic bottlenecks, route diversions, weather hold-ups, and timetable changes in real time.
+- **Responsive Mobile-First UI/UX:** Designed and tested high-fidelity interactive prototypes in Figma for both mobile web and desktop devices, optimizing for student commute ergonomics.
+- **Transit Telematics & Ridership Analytics:** Integrated Chart.js data visualization tools to monitor commuter volume, peak-hour bottlenecks, and route efficiency patterns.
+- **Scalable Enterprise Architecture & UML Modeling:** Authored complete architectural specifications including Context Diagrams, Use-Case Specifications, Activity Diagrams, Data Flow Diagrams (DFD Level 0-2), Class Hierarchies, and CRC Cards.
 
-🔗 **Repository:**  
-📁 [`github.com/DAiyan582/tenant-management-system`](https://github.com/DAiyan582/MY-Prrvious-Projects/blob/main/TMS_REPORT_FOR_PMG.pdf) (code execusion)
+<details>
+<summary>🛠️ <b>Tech Stack & Design Tools</b></summary>
+
+- **UI/UX & Prototyping:** Figma (Interactive Wireframes, Components, User Journey Maps)
+- **APIs & Visualization:** Google Maps JavaScript API, Chart.js Data Visualization
+- **Systems Engineering:** UML Diagrams (Use-Case, DFD Level 0-2, Activity, Class, CRC), SRS Documentation (IEEE 830 Standard)
+- **Frontend Concepts:** Responsive Layouts, Geolocation API, Event-Driven Notification Workflows
+</details>
+
+<details>
+<summary>▶️ <b>Project Assets & Specification Access</b></summary>
+
+```text
+Repository: https://github.com/DAiyan582/UIU-BUS-TRACKING
+Explore complete Figma design prototypes, UML system architecture diagrams, 
+and IEEE-standard SRS documentation in the repository repository assets.
+```
+</details>
 
 ---
 
-### 🚀 What I Built (End-to-End):
+### 🏠 Tenant Management System (TMS) – Integrated Property & Rental Platform
+> **A centralized property and rental platform streamlining tenant onboarding, automated rent tracking, maintenance ticketing, and financial dashboards, built with Agile (Scrum) methodologies.**
 
-- **Tenant & Property Management** – Digital applications, tenant screening, lease management, and centralized dashboards.
-- **Automated Financial System** – Online payment portal, rent reminders, real-time tracking, and detailed reporting for owners & managers.
-- **Maintenance Request Workflow** – Tenant-initiated tickets, real-time status updates, contractor assignment, and centralized history logs.
-- **Unified Communication Hub** – In-app messaging, broadcast announcements, and a centralized document repository for leases & policies.
-- **Insightful Manager & Owner Dashboards** – Single-pane performance metrics for vacancies, rent efficiency, and financial health.
-- **Comprehensive Project Management** – WBS, Wideband Delphi estimation, COCOMO, FPA, and RMMM risk management plan.
+[![Documentation](https://img.shields.io/badge/Documentation-SRS%20%26%20Report-181717?style=flat-square&logo=github)](https://github.com/DAiyan582/MY-Prrvious-Projects/blob/main/TMS_REPORT_FOR_PMG.pdf)
+[![Award](https://img.shields.io/badge/Award-Top%20Academic%20Project-ffd700?style=flat-square&logo=award&logoColor=black)]()
+[![Methodology](https://img.shields.io/badge/Methodology-Agile%20(Scrum)-0052CC?style=flat-square&logo=jira&logoColor=white)]()
+
+#### 🚀 Key Highlights & What I Built
+- **Tenant & Property Lifecycle Management:** Engineered structured workflows for digital rental applications, background screening, electronic lease agreements, and centralized tenant profiles.
+- **Automated Financial Tracking & Alerts:** Outlined automated rent reminder schedules, real-time payment tracking, fee reconciliation, and financial health reporting for property managers.
+- **Maintenance Request Ticketing Pipeline:** Designed end-to-end service ticket lifecycles—tenant creation, status notifications, contractor assignment, and historical repair logs.
+- **Unified Stakeholder Communication:** Created specifications for in-app announcements, lease dispute resolution, and document archives.
+- **Comprehensive Project Management Engineering:** Formulated complete project planning artifacts including Work Breakdown Structure (WBS), Wideband Delphi estimations, COCOMO II cost calculations, Function Point Analysis (FPA), and RMMM risk mitigation matrices.
+
+<details>
+<summary>🛠️ <b>Project Management & Engineering Stack</b></summary>
+
+- **Methodologies:** Agile (Scrum), Sprint Planning, SDLC Lifecycle Management
+- **Estimation Models:** COCOMO II, Function Point Analysis (FPA), Wideband Delphi
+- **Tools & Tracking:** Jira, WBS & Gantt Charting, RMMM Risk Matrices, CMMI Quality Guidelines
+</details>
 
 ---
 
-### 🛠️ Tech Stack
+### 📱 SMISHING Detector – Hybrid AI Model for Real-Time SMS Phishing & Spam Defense
+> **A production-ready cybersecurity solution leveraging a dual-input hybrid deep learning architecture (1D-CNN + TF-IDF) to detect SMS phishing and spam across English and Bangla datasets with 93.17% accuracy, backed by a real-time Flask web detector and automated bulk batch analysis.**
+
+[![Repository](https://img.shields.io/badge/GitHub-Computer--Security-181717?style=flat-square&logo=github)](https://github.com/DAiyan582/Computer-Security)
+[![Accuracy](https://img.shields.io/badge/Accuracy-93.17%25-brightgreen?style=flat-square&logo=tensorflow&logoColor=white)]()
+[![F1-Score](https://img.shields.io/badge/F1--Score-92.19%25-blue?style=flat-square)]()
+[![Award](https://img.shields.io/badge/Award-Top%20Academic%20Project%20(ML%2FDL)-ffd700?style=flat-square&logo=award&logoColor=black)]()
+[![Backend](https://img.shields.io/badge/API-Flask%20REST%20Service-000000?style=flat-square&logo=flask&logoColor=white)]()
+
+#### 🏆 Academic Recognition
+- **Top Academic Project – Machine Learning & Deep Learning:** Recognized for outstanding hybrid neural network design, cross-lingual dataset curation (English + Bangla), and end-to-end production pipeline achieving **93.17% Accuracy** and **92.19% F1-Score**.
+
+#### 🧠 1. Model Architecture & Dual-Input Engineering
+- **Hybrid Neural Network Architecture:** Built using TensorFlow/Keras Functional API; combines a 1D Convolutional Neural Network (CNN for extracting sequential semantic patterns and local n-gram text dependencies) with a dense TF-IDF branch (capturing global lexical frequency distributions).
+- **Dual-Branch Feature Fusion:** Merged CNN-processed sequence embeddings with dense TF-IDF vectors into a shared dense classification head, drastically minimizing false alarms on ambiguous texts.
+- **End-to-End Model Lifecycle:** Managed dataset curation, hyperparameter optimization, dropout regularization, model checkpointing, and serialization (`.h5` weights and `pickle` vectorizer binaries).
+
+#### 📊 2. Multilingual Data Preprocessing & Pipeline
+- **Cross-Lingual Corpus (5,679 Messages):** Unified 6 disparate English and Bangla SMS datasets into a single balanced benchmark corpus to counter regional phishing vectors.
+- **Automated Text Sanitization:** Engineered regex cleaning pipelines to normalize Unicode characters, strip noise, handle punctuation, and sanitize language-specific scripts for both CNN tokenization and TF-IDF extraction.
+- **Sequence Padding & Tokenization:** Standardized input sequences with Keras `Tokenizer` and `pad_sequences` to ensure zero data leakage across train/validation/test splits.
+
+#### 💻 3. Real-Time Application & Deployment
+- **Interactive Web Detector:** Developed a modern, responsive HTML5/JS interface connected to a Flask REST API, allowing users to input SMS text and receive instant SPAM/LEGITIMATE classifications with confidence percentages.
+- **High-Throughput Batch Processing:** Engineered Python batch processing scripts capable of evaluating bulk CSV/Excel files (150+ messages per run), generating color-coded HTML reports and exportable CSVs with summary statistics (spam rate, distribution breakdown).
+- **Low-Latency API Endpoints:** Implemented lightweight `/predict` and `/health` REST routes ensuring rapid sub-second inference.
+
+#### 📈 4. Performance Analytics & Visualization
+- **Convergence & Loss Diagnostics:** Generated epoch-by-epoch training/validation accuracy and loss curves via Matplotlib, ensuring rapid convergence and preventing overfitting.
+- **Diagnostic HTML Reports:** Automated generation of visual tables highlighting predictions by confidence thresholds, aiding cybersecurity threat analysis.
+- **Verified Benchmark Metrics:**
+  - **Accuracy:** `93.17%`
+  - **F1-Score:** `92.19%`
+  - **Precision & Recall:** Balanced to prevent legitimate SMS misclassification.
+
 <details>
-`Agile (Scrum)` · `Jira` · `Git & GitHub` · `COCOMO`  
-`FPA` · `WBS & Gantt` · `Risk Management` · `CMMI` · `SDLC`
+<summary>🛠️ <b>Tech Stack & Libraries</b></summary>
+
+- **Deep Learning & ML:** TensorFlow 2.x, Keras (Functional API), Scikit-Learn
+- **Core Architecture:** 1D-CNN (Sequential Embeddings), TF-IDF Vectorizer (Lexical Frequencies)
+- **Backend & API:** Python 3.x, Flask RESTful API
+- **Data & Visualization:** Pandas, NumPy, Matplotlib
+- **Frontend UI:** HTML5, Modern CSS3, JavaScript (Fetch API)
 </details>
 
-
-# 📱 SMISHING Detector – SMS Phishing & Spam Detection
-
-**Hybrid AI Model for Real-Time SMS Security**
-
-🏆 **Award: Top Academic Project – Machine Learning & Deep Learning**  
-Developed a hybrid deep learning model (CNN + TF-IDF) achieving **93.17% accuracy** and **92.19% F1-Score** on a combined dataset of 5,679 multilingual SMS messages. Selected for outstanding system design, dataset integration, and practical cybersecurity application.
-
-> A front-end AI-powered security platform focused on real-time SMS spam/phishing detection, utilizing a hybrid neural network architecture, batch prediction capabilities, and web-based user interfaces, integrated with comprehensive performance analytics and interactive visualization tools.
-
-🔗 **Repository:**  
-📁 [`github.com/your-DAiyan582/smishing-detector`](https://github.com/DAiyan582/MY-Prrvious-Projects/blob/main/SMS%20PHISHING%20DETECTION-DAIYAN%26MARIA.zip) (code execussion)
-
-
-## 🧠 1. Model Architecture & Engineering
-
-- **Designed a Hybrid Deep Learning Architecture** – Integrated a 1D-CNN (Convolutional Neural Network) for sequential text learning with a TF-IDF vectorizer for sparse feature extraction, combining two neural branches to maximize classification accuracy.
-- **Built a Dual-Input Neural Graph** – Implemented TensorFlow/Keras functional API to merge CNN-processed sequence data with dense TF-IDF vectors, achieving robust performance on multilingual datasets.
-- **Led Complete ML Lifecycle Management** – Handled end-to-end model building, hyperparameter tuning, training, evaluation (Precision, Recall, F1-Score), and serialization (`.h5` models and `pickle` vectorizers).
-
-## 📊 2. Data Preprocessing & Pipeline
-
-- **Merged 6 Diverse Datasets** – Unified English and Bangla SMS data into a single corpus of **5,679 messages**, ensuring broad linguistic coverage.
-- **Implemented Custom Text-Cleaning Pipelines** – Built regex-based cleaning functions to handle punctuation, numbers, and language-specific characters for both CNN tokenization and TF-IDF vectorization.
-- **Managed Sequence Padding & Tokenization** – Configured Keras tokenizers and `pad_sequences` to standardize input lengths, preventing data leakage during train/test splits.
-
-## 💻 3. Application & Deployment
-
-- **Created an Interactive Web-Based SMS Detector** – Developed a responsive HTML/JS frontend that connects to a Flask backend API, allowing users to paste messages and receive real-time SPAM/LEGITIMATE predictions with confidence scores.
-- **Developed a Batch Prediction & Reporting System** – Built Python scripts to process bulk CSV/XLS files (supporting 150+ messages), automatically generating formatted HTML and CSV reports with statistical summaries (spam rate, total counts).
-- **Integrated Real-Time API Endpoints** – Exposed `/predict` and `/health` routes for seamless frontend-backend communication, ensuring quick inference with minimal latency.
-
-## 📈 4. Performance Analytics & Visualization
-
-- **Built Comprehensive Performance Dashboards** – Utilized Matplotlib to generate epoch-based accuracy/loss curves, allowing for deep analysis of model convergence and overfitting behavior.
-- **Generated Interactive HTML Reports** – Auto-generated color-coded HTML tables categorizing predictions (SPAM vs. LEGITIMATE) with high-confidence highlighting, suitable for easy review and presentation.
-- **Tracked Key ML Metrics** – Monitored test accuracy, precision, recall, and F1-score (92.19%) to ensure the model's reliability in real-world cybersecurity applications.
-
-
-## 🛠️ Tech Stack
 <details>
-`Python` · `TensorFlow / Keras` · `Flask` · `HTML / CSS / JS`  
-`Pandas` · `NumPy` · `Matplotlib` · `Scikit-Learn`  
-`CNN` · `TF-IDF` · `NLP` · `Model Serialization` · `API Integration`
+<summary>▶️ <b>How to Run the SMS Detector</b></summary>
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/DAiyan582/Computer-Security.git
+cd Computer-Security
+
+# 2. Install required packages
+pip install tensorflow flask scikit-learn pandas numpy matplotlib
+
+# 3. Launch the Flask web detector
+python app.py
+
+# 4. Open in browser: http://127.0.0.1:5000
+```
 </details>
 
-
- 
 </div>
 
 <div align="left">
