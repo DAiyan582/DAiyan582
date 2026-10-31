@@ -418,51 +418,6 @@ curl http://localhost:5000/api/salary \
 ```
 </details>
 
----
-
-### 🎓 Academic Course Enrollment & RESTful API Boilerplate
-> **A modular, production-ready RESTful CRUD API boilerplate designed for academic student enrollments and course registration, featuring API Key security, dynamic query filtering, and a strict feature-branch Git workflow.**
-
-[![Repository](https://img.shields.io/badge/GitHub-MY--practice-181717?style=flat-square&logo=github)](https://github.com/DAiyan582/MY-practice)
-[![Backend](https://img.shields.io/badge/Backend-Node.js%20%2F%20Python-339933?style=flat-square&logo=nodedotjs&logoColor=white)]()
-[![Security](https://img.shields.io/badge/Auth-X--API--Key-059669?style=flat-square)]()
-[![Workflow](https://img.shields.io/badge/Git-Branch--Per--Feature-F05032?style=flat-square&logo=git&logoColor=white)]()
-
-#### 🚀 Key Highlights & What I Built
-- **Pluggable Resource-Oriented Architecture:** Designed a modular CRUD API template enabling rapid addition of new academic resources (enrollments, courses, students, course prerequisites) with unified handler logic.
-- **Parametric Query Filtering & Validation:** Built intelligent search routing allowing instant filtering of student registrations by `courseCode`, `semester`, and enrollment `status` (`enrolled`, `waitlisted`, `dropped`).
-- **API Key Guard Middleware:** Implemented lightweight security middleware validating incoming `X-API-Key` headers on all protected endpoints, returning standardized RFC-compliant error payloads on missing or invalid keys.
-- **Strict HTTP Status Code Adherence:** Strictly standardizes responses across 200 (OK), 201 (Created), 400 (Validation / Missing Required Fields), 401 (Unauthorized), and 404 (Entity Not Found).
-- **Branch-Per-Feature Git Engineering Workflow:** Developed under disciplined version control protocols with isolated feature branches (`feature/retrieve`, `feature/save`, `feature/auth`) and structured merge strategies.
-
-<details>
-<summary>🛠️ <b>Tech Stack & Concepts</b></summary>
-
-- **Environments:** Node.js / Express · Python REST
-- **Protocols & Design:** RESTful Architecture, HTTP Middleware Pattern, CRUD Operations
-- **Data Handling:** JSON Datastore, Schema Input Validation, Parametric Query Parsing
-- **Engineering Practice:** Git Flow (Branch-per-feature, pull-request review simulation)
-</details>
-
-<details>
-<summary>▶️ <b>Quick Start & API Testing</b></summary>
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/DAiyan582/MY-practice.git
-cd MY-practice
-
-# 2. Run the server
-npm install && npm start
-# Server running at http://localhost:5000
-
-# 3. Test student enrollment creation with API Key
-curl -X POST http://localhost:5000/api/enrollments \
-  -H "X-API-Key: secret123" \
-  -H "Content-Type: application/json" \
-  -d '{"studentName":"Sadia Islam","courseCode":"CSE4165","semester":"Fall2026"}'
-```
-</details>
 
 </div>
 
